@@ -84,15 +84,15 @@ CREATE TABLE economies2015 (
 );
 
 -- Copy over data from CSVs
-\copy cities FROM 'cities.csv' DELIMITER ',' CSV HEADER;
-\copy countries FROM 'countries.csv' DELIMITER ',' CSV HEADER;
-\copy languages FROM 'languages.csv' DELIMITER ',' CSV HEADER;
-\copy economies FROM 'economies.csv' DELIMITER ',' CSV HEADER;
-\copy economies2010 FROM 'economies2010.csv' DELIMITER ',' CSV HEADER;
-\copy economies2015 FROM 'economies2015.csv' DELIMITER ',' CSV HEADER;
-\copy currencies FROM 'currencies.csv' DELIMITER ',' CSV HEADER;
-\copy populations FROM 'populations.csv' DELIMITER ',' CSV HEADER;
-\copy countries_plus FROM 'countries_plus.csv' DELIMITER ',' CSV HEADER;
+\copy cities FROM 'https://github.com/kim3-sudo/countries2/raw/master/cities.csv' DELIMITER ',' CSV HEADER;
+\copy countries FROM 'https://github.com/kim3-sudo/countries2/raw/master/countries.csv' DELIMITER ',' CSV HEADER;
+\copy languages FROM 'https://github.com/kim3-sudo/countries2/raw/master/languages.csv' DELIMITER ',' CSV HEADER;
+\copy economies FROM 'https://github.com/kim3-sudo/countries2/raw/master/economies.csv' DELIMITER ',' CSV HEADER;
+\copy economies2010 FROM 'https://github.com/kim3-sudo/countries2/raw/master/economies2010.csv' DELIMITER ',' CSV HEADER;
+\copy economies2015 FROM 'https://github.com/kim3-sudo/countries2/raw/master/economies2015.csv' DELIMITER ',' CSV HEADER;
+\copy currencies FROM 'https://github.com/kim3-sudo/countries2/raw/master/currencies.csv' DELIMITER ',' CSV HEADER;
+\copy populations FROM 'https://github.com/kim3-sudo/countries2/raw/master/populations.csv' DELIMITER ',' CSV HEADER;
+\copy countries_plus FROM 'https://github.com/kim3-sudo/countries2/raw/master/countries_plus.csv' DELIMITER ',' CSV HEADER;
 
 /*
 createdb countries
