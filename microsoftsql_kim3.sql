@@ -1,13 +1,13 @@
 CREATE TABLE dbo.comments (
-  'commentId' int NOT NULL,
-  'commentOnId' int NOT NULL,
-  'commentOnType' varchar(30) NOT NULL,
-  'comment' text NOT NULL,
-  'userId' int NOT NULL,
-  'numLikes' int NOT NULL
+  "commentId" int NOT NULL,
+  "commentOnId" int NOT NULL,
+  "commentOnType" varchar(30) NOT NULL,
+  "comment" text NOT NULL,
+  "userId" int NOT NULL,
+  "numLikes" int NOT NULL
 );
 
-INSERT INTO dbo.comments ('commentId', 'commentOnId', 'commentOnType', 'comment', 'userId', 'numLikes') VALUES
+INSERT INTO dbo.comments ("commentId", "commentOnId", "commentOnType", "comment", "userId", "numLikes") VALUES
 (1, 58, 'artwork', 'a_ This piece of artwork is super cool! I really like it!', 1, 2),
 (2, 5838, 'artwork', 'a_ what is oatmeal?', 2, 4),
 (3, 392, 'artwork', 'a_ yoooo you should listen to my music', 1, 3),
@@ -30,16 +30,16 @@ INSERT INTO dbo.comments ('commentId', 'commentOnId', 'commentOnType', 'comment'
 (23, 214, 'artwork', 'xccvx', 108, 0);
 
 CREATE TABLE dbo.follower (
-  'prikey' int NOT NULL,
-  'account' varchar(21) DEFAULT NULL,
-  'name' varchar(29) DEFAULT NULL,
-  'sport' varchar(11) DEFAULT NULL,
-  'mw' varchar(5) DEFAULT NULL,
-  'class' varchar(7) DEFAULT NULL,
-  'assc' varchar(6) DEFAULT NULL
+  "prikey" int NOT NULL,
+  "account" varchar(21) DEFAULT NULL,
+  "name" varchar(29) DEFAULT NULL,
+  "sport" varchar(11) DEFAULT NULL,
+  "mw" varchar(5) DEFAULT NULL,
+  "class" varchar(7) DEFAULT NULL,
+  "assc" varchar(6) DEFAULT NULL
 );
 
-INSERT INTO dbo.follower ('prikey', 'account', 'name', 'sport', 'mw', 'class', 'assc') VALUES
+INSERT INTO dbo.follower ("prikey", "account", "name", "sport", "mw", "class", "assc") VALUES
 (2, 'gpropp7', 'Greta Propp', 'basketball', 'women', 'athlete', 'Kenyon'),
 (3, 'jakkietomlinson', 'Jakkie Tomlinson', 'basketball', 'women', 'athlete', 'Kenyon'),
 (4, '305coachk', 'Tom Klosowski', 'lacrosse', 'men', 'coach', 'Kenyon'),
@@ -182,14 +182,14 @@ INSERT INTO dbo.follower ('prikey', 'account', 'name', 'sport', 'mw', 'class', '
 (141, 'colin.thomasson', 'Colin Thomasson', 'soccer', 'men', 'athlete', 'Grady');
 
 CREATE TABLE dbo.phonebook (
-  'ID' int NOT NULL,
-  'Last' varchar(30) NOT NULL,
-  'First' varchar(30) NOT NULL,
-  'Phone' bigint NOT NULL,
-  'Type' enum('FRIEND','BUSINESS','FAMILY','OTHER') NOT NULL
+  "ID" int NOT NULL,
+  "Last" varchar(30) NOT NULL,
+  "First" varchar(30) NOT NULL,
+  "Phone" bigint NOT NULL,
+  "Type" VARCHAR(8) NOT NULL CHECK (Type IN('FRIEND','BUSINESS','FAMILY','OTHER'))
 );
 
-INSERT INTO dbo.phonebook ('ID', 'Last', 'First', 'Phone', 'Type') VALUES
+INSERT INTO dbo.phonebook ("ID", "Last", "First", "Phone", "Type") VALUES
 (1, 'Weinstick', 'Kaleb', 1653215477, 'FRIEND'),
 (2, 'Rafferty', 'Alex', 2468934572, 'OTHER'),
 (3, 'Skon', 'Jim', 1567215762, 'OTHER'),
@@ -203,13 +203,13 @@ INSERT INTO dbo.phonebook ('ID', 'Last', 'First', 'Phone', 'Type') VALUES
 (11, 'Slipshod', 'pinhead', 323233422, 'OTHER');
 
 CREATE TABLE dbo.users (
-  'userId' int NOT NULL,
-  'userName' varchar(30) NOT NULL,
-  'password' varchar(30) NOT NULL,
-  'email' varchar(64) NOT NULL
+  "userId" int NOT NULL,
+  "userName" varchar(30) NOT NULL,
+  "password" varchar(30) NOT NULL,
+  "email" varchar(64) NOT NULL
 );
 
-INSERT INTO dbo.users ('userId', 'userName', 'password', 'email') VALUES
+INSERT INTO dbo.users ("userId", "userName", "password", "email") VALUES
 (1, 'Bob Dylan', 'iamgreat', 'bobdylan@kanyon.edu'),
 (2, 'Sejin Kim', 'beeeeeees', 'kim3@kanyon.edu'),
 (3, 'Michaela Brydon', 'hi', 'brydon1@kenyon.edu'),
@@ -242,13 +242,13 @@ INSERT INTO dbo.users ('userId', 'userName', 'password', 'email') VALUES
 (109, 'mikkibry125', 'sammy', 'mikki@gmail.com');
 
 ALTER TABLE dbo.comments
-  ADD PRIMARY KEY ('commentId');
+  ADD PRIMARY KEY ("commentId");
 
 ALTER TABLE dbo.follower
-  ADD PRIMARY KEY ('prikey');
+  ADD PRIMARY KEY ("prikey");
 
 ALTER TABLE dbo.phonebook
-  ADD PRIMARY KEY ('ID');
+  ADD PRIMARY KEY ("ID");
 
 ALTER TABLE dbo.users
-  ADD PRIMARY KEY ('userId');
+  ADD PRIMARY KEY ("userId");
