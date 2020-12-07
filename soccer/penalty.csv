@@ -1,0 +1,5000 @@
+﻿1,Cristiano Ronaldo,85
+2,Lionel Messi,74
+3,Neymar,81
+4,Luis Suárez,85
+5,Manuel Neuer,47
+6,De Gea,40
+7,Robert Lewandowski,81
+8,Gareth Bale,76
+9,Zlatan Ibrahimovic,91
+10,Thibaut Courtois,27
+11,Jérôme Boateng,46
+12,Eden Hazard,86
+13,Luka Modric,80
+14,Mesut Özil,67
+15,Gonzalo Higuaín,70
+16,Thiago Silva,71
+17,Sergio Ramos,68
+18,Sergio Agüero,80
+19,Paul Pogba,76
+20,Antoine Griezmann,71
+21,Kevin De Bruyne,77
+22,Marco Reus,84
+23,Alexis Sánchez,77
+24,Toni Kroos,73
+25,Diego Godín,50
+26,Mats Hummels,68
+27,Hugo Lloris,40
+28,Giorgio Chiellini,50
+29,Philipp Lahm,69
+30,Pepe,57
+31,Petr Cech,23
+32,Gianluigi Buffon,22
+33,Iniesta,71
+34,Jan Oblak,11
+35,James Rodríguez,81
+36,Pierre-Emerick Aubameyang,82
+37,Leonardo Bonucci,70
+38,Arturo Vidal,84
+39,Ivan Rakitic,78
+40,David Silva,77
+41,Samir Handanovic,23
+42,Piqué,69
+43,Arjen Robben,80
+44,Paulo Dybala,84
+45,Marco Verratti,64
+46,David Alaba,80
+47,Henrikh Mkhitaryan,72
+48,Bernd Leno,23
+49,Thomas Müller,60
+50,Sergio Busquets,60
+51,Thiago,75
+52,Jordi Alba,59
+53,Coutinho,64
+54,Ángel Di María,73
+55,Diego Costa,76
+56,Edinson Cavani,84
+57,Radja Nainggolan,63
+58,Marcelo,59
+59,Claudio Marchisio,78
+60,Miranda,49
+61,Karim Benzema,82
+62,Cesc Fàbregas,80
+63,Franck Ribéry,78
+64,Santi Cazorla,80
+65,Andrea Barzagli,60
+66,Harry Kane,82
+67,Alexandre Lacazette,84
+68,Keylor Navas,25
+69,Romelu Lukaku,80
+70,Christian Eriksen,67
+71,Ilkay Gündogan,76
+72,Toby Alderweireld,60
+73,Willian,60
+74,Miralem Pjanic,79
+75,Juan Mata,81
+76,Javi Martinez,52
+77,Dimitri Payet,76
+78,Dries Mertens,78
+79,Sokratis,38
+80,Marek Hamšik,70
+81,Blaise Matuidi,56
+82,Stéphane Ruffier,25
+83,Laurent Koscielny,51
+84,Filipe Luís,65
+85,Vincent Kompany,63
+86,Aymeric Laporte,35
+87,Yannick Carrasco,74
+88,Carvajal,45
+89,Riyad Mahrez,72
+90,Raphaël Varane,43
+91,Mauro Icardi,78
+92,Lorenzo Insigne,61
+93,Isco,76
+94,Koke,59
+95,Kostas Manolas,26
+96,Danijel Subašic,23
+97,Nicolás Otamendi,44
+98,Shkodran Mustafi,54
+99,Nemanja Matic,69
+100,Alex Sandro,59
+101,Kamil Glik,39
+102,Douglas Costa,77
+103,Kevin Strootman,77
+104,Nicolás Gaitán,71
+105,Bruno,75
+106,Ivan Perišic,76
+107,David Luiz,75
+108,Sami Khedira,69
+109,Benedikt Höwedes,56
+110,Ralf Fährmann,21
+111,Sergio Asenjo,15
+112,Éver Banega,67
+113,Medhi Benatia,41
+114,Steve Mandanda,11
+115,Dani Alves,70
+116,Arda Turan,73
+117,Javier Mascherano,60
+118,Aduriz,77
+119,Yaya Touré,89
+120,Eric Bailly,46
+121,José María Giménez,38
+122,NGolo Kanté,54
+123,Gerónimo Rulli,24
+124,João Mário,66
+125,André Gomes,55
+126,Marquinhos,31
+127,Carlos Bacca,79
+128,William Carvalho,60
+129,Karim Bellarabi,57
+130,Raheem Sterling,63
+131,Julian Draxler,63
+132,Roberto Firmino,72
+133,Marcos Rojo,64
+134,Kalidou Koulibaly,33
+135,Danilo Pereira,52
+136,Timo Horn,21
+137,Casemiro,66
+138,Vitolo,74
+139,Anthony Lopes,16
+140,Mattia Perin,21
+141,Joel Matip,42
+142,Juan Cuadrado,65
+143,Iago Aspas,74
+144,Marc-André ter Stegen,25
+145,Mario Götze,65
+146,Ander Herrera,79
+147,Javier Pastore,75
+148,Chris Smalling,52
+149,Pedro,66
+150,Giacomo Bonaventura,68
+151,Roman Bürki,20
+152,Oscar,68
+153,Steven NZonzi,57
+154,Aaron Ramsey,75
+155,Mateo Musacchio,57
+156,Ömer Toprak,48
+157,José Callejón,62
+158,Adrien Silva,85
+159,Azpilicueta,66
+160,Sebastian Giovinco,75
+161,Anthony Modeste,77
+162,Mario Mandžukic,76
+163,Adam Lallana,70
+164,Olivier Giroud,81
+165,Rui Patrício,32
+166,Yann Sommer,24
+167,Jonas,83
+168,Kévin Gameiro,85
+169,Claudio Bravo,23
+170,Lukasz Piszczek,65
+171,Jan Vertonghen,68
+172,Asmir Begovic,40
+173,Naldo,60
+174,Daniel Sturridge,75
+175,José Fonte,43
+176,Ezequiel Garay,69
+177,Samir Nasri,77
+178,Gary Cahill,53
+179,Ashley Williams,45
+180,Leighton Baines,90
+181,Kasper Schmeichel,26
+182,Borja Valero,72
+183,Hatem Ben Arfa,87
+184,Joe Hart,68
+185,Juanfran,66
+186,Wesley Sneijder,76
+187,Nani,72
+188,Stephan Lichtsteiner,66
+189,Wayne Rooney,79
+190,Daniele De Rossi,75
+191,José Reina,24
+192,Quaresma,74
+193,Marco Asensio,62
+194,Bernardo Silva,64
+195,Islam Slimani,72
+196,Jonathan Tah,38
+197,Anthony Martial,71
+198,Dele Alli,52
+199,Ederson,17
+200,Mohamed Salah,61
+201,Sadio Mané,71
+202,Lucas Vázquez,56
+203,Franco Vázquez,67
+204,Manu Trigueros,65
+205,Samuel Umtiti,61
+206,Stefan Savic,37
+207,Roque Mesa,42
+208,Loris Karius,19
+209,Alessandro Florenzi,76
+210,Virgil van Dijk,62
+211,Jack Butland,42
+212,Morata,72
+213,Lucas,75
+214,Yevhen Konoplyanka,75
+215,Francesco Acerbi,72
+216,Nolito,74
+217,Granit Xhaka,59
+218,Stefan de Vrij,41
+219,Jonathan Viera,74
+220,Pizzi,76
+221,Serge Aurier,66
+222,Grzegorz Krychowiak,78
+223,Kevin Kampl,64
+224,Dejan Lovren,52
+225,Gary Medel,62
+226,Idrissa Gueye,54
+227,Víctor Ruíz,46
+228,Ricardo Rodríguez,83
+229,Xherdan Shaqiri,65
+230,Ciro Immobile,76
+231,Nathaniel Clyne,46
+232,Iborra,72
+233,Jack Wilshere,65
+234,Shinji Kagawa,78
+235,Kevin Trapp,17
+236,Taison,72
+237,Kyle Walker,63
+238,Marlos,74
+239,Luiz Gustavo,58
+240,Giuliano,75
+241,Gylfi Sigurðsson,80
+242,Yacine Brahimi,75
+243,Marko Arnautovic,78
+244,Jordan Henderson,64
+245,Orestis Karnezis,21
+246,Mamadou Sakho,40
+247,Adil Rami,48
+248,Fernando Néstor Muslera,24
+249,Vedran Corluka,49
+250,Edin Džeko,70
+251,Séamus Coleman,60
+252,Javier Hernández,76
+253,Beñat,69
+254,Lars Bender,52
+255,Axel Witsel,81
+256,Morgan Schneiderlin,56
+257,Kevin Mirallas,75
+258,Carlos Vela,72
+259,Emiliano Viviano,21
+260,Antonio Valencia,55
+261,Gonzalo Castro,58
+262,Falcao,84
+263,Diego Alves,24
+264,Andrea Consigli,21
+265,João Moutinho,70
+266,Moussa Dembélé,67
+267,Michael Krohn-Dehli,76
+268,Loïc Perrin,68
+269,Lucas Biglia,72
+270,Benoît Costil,15
+271,Raúl Albiol,37
+272,Mario Gómez,74
+273,Gabi,83
+274,Diego López,21
+275,Raffael,72
+276,Alejandro Gómez,69
+277,Gonzalo Rodríguez,74
+278,Vincent Enyeama,75
+279,Kaká,84
+280,Fernandinho,61
+281,David Villa,88
+282,Victor Valdés,26
+283,Per Mertesacker,42
+284,Patrice Evra,57
+285,Xabi Alonso,80
+286,Michael Carrick,64
+287,Andrea Pirlo,84
+288,Casillas,24
+289,Ousmane Dembélé,70
+290,Corentin Tolisso,70
+291,Marcelo Brozovic,69
+292,Federico Bernardeschi,72
+293,Niklas Süle,32
+294,Domenico Berardi,80
+295,Morgan Sanson,68
+296,Samu Castillejo,59
+297,Adrien Rabiot,68
+298,Leon Goretzka,51
+299,Quincy Promes,72
+300,Andrea Belotti,77
+301,Jonas Hector,65
+302,Mateo Kovacic,59
+303,Sergio Rico,24
+304,Oleg Shatov,60
+305,Jorginho,84
+306,Florian Thauvin,57
+307,Michy Batshuayi,67
+308,Iñigo Martínez,39
+309,Suso,68
+310,Deulofeu,70
+311,Felipe Anderson,53
+312,Jasper Cillessen,21
+313,Wissam Ben Yedder,74
+314,Lucas Pérez,79
+315,Ross Barkley,65
+316,Cédric Bakambu,72
+317,Bartra,52
+318,André Schürrle,83
+319,Roberto Pereyra,72
+320,Mario Gaspar,50
+321,Fabián Orellana,75
+322,Lukáš Hrádecký,20
+323,Daley Blind,56
+324,De Marcos,55
+325,Wilfried Bony,77
+326,Iturraspe,58
+327,Parejo,83
+328,Salomón Rondón,62
+329,Daniel Carriço,62
+330,Bas Dost,77
+331,James McCarthy,60
+332,Camacho,48
+333,Paulinho,71
+334,Alan Dzagoev,65
+335,Igor Smolnikov,41
+336,Lars Stindl,69
+337,Mario Balotelli,92
+338,Wojciech Szczesny,18
+339,Nikola Kalinic,70
+340,Mikel San José,51
+341,Christian Benteke,77
+342,Marco Parolo,45
+343,Ljubomir Fejsa,56
+344,Martín Cáceres,50
+345,Georginio Wijnaldum,74
+346,Federico Fazio,33
+347,Simon Kjær,46
+348,Loïc Rémy,78
+349,Miguel Layún,75
+350,Adán,25
+351,Benoît Trémoulinas,77
+352,Sven Bender,42
+353,Mathieu Valbuena,65
+354,Bojan,71
+355,Augusto Fernández,62
+356,Antonio Candreva,86
+357,Davide Astori,27
+358,Raúl García,76
+359,Giovani dos Santos,70
+360,Erik Lamela,75
+361,Ryan Shawcross,48
+362,Danny Rose,57
+363,Renato Augusto,68
+364,Martin Škrtel,52
+365,Theo Walcott,74
+366,Bacary Sagna,59
+367,Dante,57
+368,Salomon Kalou,86
+369,André-Pierre Gignac,78
+370,Lukas Podolski,83
+371,Negredo,80
+372,Pablo Zabaleta,64
+373,Darijo Srna,84
+374,Cédric Carrasso,13
+375,Rubén Castro,76
+376,Jérémy Mathieu,60
+377,Carlos Idriss Kameni,24
+378,Moyá,11
+379,Rune Almenning Jarstein,13
+380,Jermain Defoe,71
+381,Thiago Motta,70
+382,Fernando Torres,74
+383,Júlio César,13
+384,Didier Drogba,84
+385,Danny,67
+386,John Terry,52
+387,Samuel Etoo,85
+388,Tiago,57
+389,Gelson Martins,66
+390,Leroy Sané,63
+391,Julian Weigl,50
+392,Nabil Fekir,70
+393,Jean Michaël Seri,67
+394,Williams,64
+395,Marco Sportiello,21
+396,Keita Baldé Diao,58
+397,Nikola Maksimovic,26
+398,Thomas Lemar,68
+399,Kingsley Coman,70
+400,Alisson,23
+401,Joshua Kimmich,44
+402,Julian Brandt,54
+403,Sofiane Boufal,69
+404,Bruma,71
+405,Daniele Rugani,29
+406,Raphaël Guerreiro,44
+407,Fabinho,88
+408,Jamie Vardy,76
+409,Hakim Ziyech,74
+410,Emil Forsberg,64
+411,Saúl,54
+412,Felipe,47
+413,Taras Stepanenko,52
+414,Luke Shaw,53
+415,Leo Baptistao,65
+416,Antonio Rüdiger,40
+417,Matija Nastasic,47
+418,Denis Suárez,63
+419,Kurt Zouma,61
+420,John Brooks,45
+421,Héctor Bellerín,62
+422,Thorgan Hazard,73
+423,Davy Klaassen,75
+424,Valère Germain,77
+425,Paul-Georges Ntep,70
+426,Layvin Kurzawa,62
+427,Rafinha,67
+428,Jeison Murillo,46
+429,Riccardo Saponara,67
+430,Djibril Sidibé,43
+431,Nacho Fernández,45
+432,Josip Ilicic,78
+433,Kevin Volland,72
+434,Allan,53
+435,Pablo Hernández,62
+436,Sergi Roberto,57
+437,Wilfried Zaha,66
+438,Manolo Gabbiadini,72
+439,Josuha Guilavogui,50
+440,Patrick Herrmann,61
+441,Sebastián Coates,42
+442,Oguzhan Özyakup,78
+443,Yaroslav Rakitskyi,50
+444,Phil Jones,55
+445,Adrián,44
+446,Neto,22
+447,Hugo Mallo,23
+448,Daniel Didavi,65
+449,Younès Belhanda,80
+450,Oliver Baumann,22
+451,Mário Fernandes,53
+452,Roberto Soriano,62
+453,Jesús Corona,68
+454,Maxime Gonalons,71
+455,Alphonse Areola,25
+456,Yunus Malli,81
+457,Eduardo Salvio,60
+458,Stephan El Shaarawy,72
+459,Iago Falqué,77
+460,Marwin Hitz,22
+461,Thimothée Kolodziejczak,49
+462,Francis Coquelin,52
+463,Marcel Schmelzer,46
+464,Ryad Boudebouz,87
+465,Ganso,76
+466,Fedor Smolov,74
+467,Christian Noboa,80
+468,Kwadwo Asamoah,64
+469,Ron-Robert Zieler,24
+470,Danny Welbeck,70
+471,Danny Drinkwater,53
+472,Aleksandar Kolarov,74
+473,Matteo Darmian,45
+474,Ibrahima Traoré,56
+475,Diego Perotti,82
+476,Angelo Ogbonna,39
+477,Max Kruse,86
+478,Konstantinos Mitroglou,61
+479,Nordin Amrabat,77
+480,Stevan Jovetic,80
+481,Jeremain Lens,67
+482,Branislav Ivanovic,58
+483,Eder,78
+484,Kiko Casilla,23
+485,Nacho Monreal,61
+486,Serdar Tasci,42
+487,Marcelo Díaz,66
+488,André Ayew,71
+489,Winston Reid,55
+490,Lucas Leiva,61
+491,Kevin-Prince Boateng,67
+492,Héctor Moreno,63
+493,Cristian Ansaldi,52
+494,Daniel Wass,64
+495,Coke,74
+496,Andrés Guardado,70
+497,Jonathan dos Santos,59
+498,Ryan Bertrand,52
+499,Jardel,57
+500,Salvatore Sirigu,19
+501,Yohan Cabaye,78
+502,Vitaliy Denisov,31
+503,Dušan Basta,55
+504,Gustavo Cabral,47
+505,Gabriel Paletta,35
+506,Lukasz Fabianski,22
+507,Ben Foster,41
+508,Vedad Ibiševic,77
+509,Andreas Granqvist,79
+510,Héctor Herrera,59
+511,Igor Akinfeev,10
+512,Fernando Belluschi,75
+513,Andriy Pyatov,15
+514,Antonio Mirante,21
+515,Federico Marchetti,22
+516,James Milner,83
+517,Michel Vorm,41
+518,Daniel Baier,62
+519,Atiba Hutchinson,76
+520,Mehmet Topal,68
+521,Bastian Schweinsteiger,77
+522,René Adler,21
+523,Jérémy Toulalan,56
+524,Phil Jagielka,68
+525,Stefano Sorrentino,20
+526,Robin van Persie,84
+527,Gareth Barry,72
+528,Francesco Totti,86
+529,Gianluigi Donnarumma,24
+530,Nélson Semedo,38
+531,Florin Andone,74
+532,Sergej Milinkovic-Savic,38
+533,Omar Al Soma,74
+534,Petros,58
+535,Victor Nilsson Lindelöf,55
+536,Naby Keïta,58
+537,Tiémoué Bakayoko,45
+538,Mahmoud Dahoud,55
+539,Rúben Semedo,38
+540,Rafa,59
+541,Dani García,58
+542,Lisandro López,48
+543,Ángel Correa,55
+544,Andreas Christensen,38
+545,Nabil Bentaleb,69
+546,Stanislav Kritsyuk,14
+547,Divock Origi,65
+548,Max Meyer,60
+549,Gayà,52
+550,Marco Benassi,51
+551,Pedro Santos,65
+552,Elseid Hysaj,40
+553,João Cancelo,46
+554,Alessio Romagnoli,34
+555,Piotr Zielinski,51
+556,Bruno Peres,59
+557,Ricardo Pereira,54
+558,Óliver Torres,65
+559,Filip Kostic,67
+560,Emre Can,60
+561,Matthias Ginter,67
+562,Luciano Vietto,69
+563,Arrizabalaga,24
+564,Maximilian Arnold,59
+565,Alassane Pléa,63
+566,Denis Cheryshev,64
+567,Edin Višca,75
+568,Bernard,57
+569,Daniele Baselli,71
+570,Arkadiusz Milik,79
+571,Bernat,53
+572,Šime Vrsaljko,52
+573,Eric Botteghin,52
+574,John Stones,37
+575,Jannik Vestergaard,43
+576,Simone Zaza,80
+577,Sergi Darder,55
+578,Fernando,61
+579,Memphis Depay,66
+580,Jesé,68
+581,Thomas Meunier,65
+582,Eric Dier,70
+583,Federico Fernández,42
+584,Nicola Sansone,66
+585,Gastón Ramírez,73
+586,Faouzi Ghoulam,76
+587,Gabriel,51
+588,Vladimír Darida,74
+589,Cédric,60
+590,Lorenzo Tonelli,35
+591,Benjamin Lecomte,20
+592,Lucas Digne,58
+593,Paco Alcácer,71
+594,Heung Min Son,71
+595,Vicente Gómez,46
+596,Emre Çolak,72
+597,André André,86
+598,Dušan Tadic,80
+599,Danilo,67
+600,Pablo Sarabia,61
+601,Alex Oxlade-Chamberlain,69
+602,Marco Höger,74
+603,Florian Lejeune,43
+604,Giannelli Imbula,29
+605,Nicolás Lodeiro,76
+606,Daniel Caligiuri,79
+607,Jeffrey Bruma,39
+608,Willian José,80
+609,Wahbi Khazri,75
+610,Keko,66
+611,Gil,42
+612,Martin Braithwaite,73
+613,Jaume Costa,56
+614,Romain Hamouma,72
+615,Escudero,66
+616,Marcos Alonso,64
+617,Holger Badstuber,64
+618,Osvaldo Alonso,66
+619,Juraj Kucka,71
+620,Jeroen Zoet,27
+621,Illarramendi,50
+622,Adem Ljajic,75
+623,Eliaquim Mangala,46
+624,Canales,66
+625,Balenziaga,44
+626,Rafael,58
+627,Sebastian Rudy,71
+628,Jonathas,78
+629,Aleksandar Dragovic,65
+630,Manuel Lanzini,68
+631,Victor Wanyama,65
+632,Alfred NDiaye,54
+633,Nicolas Nkoulou,50
+634,Volkan Babacan,12
+635,Seydou Doumbia,79
+636,Pavel Mamaev,85
+637,Artem Dzyuba,77
+638,Maurício,52
+639,Yann MVila,68
+640,Kieran Gibbs,63
+641,Mariano,61
+642,Sofiane Feghouli,62
+643,Fernando,54
+644,Claudio Yacob,66
+645,Roberto,19
+646,Moussa Sissoko,68
+647,Maximiliano Pereira,63
+648,Sidnei,58
+649,William Vainqueur,32
+650,Miguel Veloso,73
+651,Fabricio,22
+652,Vieirinha,66
+653,Fabian Johnson,53
+654,Demba Ba,89
+655,Bryan Ruíz,71
+656,Marcus Berg,70
+657,Pontus Wernbloom,66
+658,David Ospina,26
+659,Ignacio Piatti,70
+660,Valter Birsa,76
+661,Matías Fernández,72
+662,Marcano,35
+663,Simon Mignolet,41
+664,Sergio Romero,16
+665,Domenico Criscito,68
+666,Castán,40
+667,Moussa Sow,75
+668,Diego Valeri,71
+669,Nuri Sahin,39
+670,Jonny Evans,44
+671,Danilo,50
+672,Nicolás Pareja,69
+673,Stefan Radu,57
+674,Nicolas Lombaerts,48
+675,Giuseppe Rossi,87
+676,Llorente,70
+677,Bafétimbi Gomis,83
+678,Mathieu Debuchy,66
+679,Ibrahim Afellay,70
+680,Jefferson Farfán,79
+681,Manuel Fernandes,75
+682,Scott Dann,30
+683,Clint Dempsey,71
+684,Michael Bradley,71
+685,Yoann Gourcuff,76
+686,Hilton,64
+687,Pablo Batalla,82
+688,Gaël Clichy,45
+689,Klaas-Jan Huntelaar,56
+690,Luisão,66
+691,Vasiliy Berezutskiy,45
+692,Igor Denisov,62
+693,Alexandr Samedov,81
+694,Jesús Navas,56
+695,Xabi Prieto,84
+696,Javi Fuego,60
+697,Marcelo Barovero,20
+698,Lisandro López,84
+699,Guillermo Ochoa,16
+700,Bruno Alves,75
+701,Burak Yilmaz,79
+702,Diego Benaglio,23
+703,Zoran Tošic,67
+704,Maxwell,59
+705,Kim Källström,70
+706,Tim Howard,33
+707,Denys Boyko,15
+708,Marcus Rashford,74
+709,Miguel Almirón,58
+710,Gabriel Jesus,73
+711,Oyarzabal,47
+712,André Silva,77
+713,Soares,68
+714,Nemanja Radoja,42
+715,Marcos Acuña,43
+716,Jorge Meré,51
+717,Jony,61
+718,Antonio Sanabria,69
+719,Cheikh NDoye,57
+720,José Izquierdo,58
+721,Gonzalo Escalante,64
+722,Theo Bongonda,57
+723,Sebastián Torrico,21
+724,Morales,68
+725,Wendell,46
+726,Andrej Kramaric,79
+727,Davide Zappacosta,59
+728,Jemerson,54
+729,Lucas Alario,70
+730,Duván Zapata,64
+731,Wylan Cyprien,53
+732,Diego Llorente,53
+733,Alex Telles,63
+734,Timo Werner,63
+735,André Hahn,47
+736,Paulo Oliveira,45
+737,Rachid Ghezzal,65
+738,Grimaldo,51
+739,Kevin Wimmer,35
+740,Tiago Volpi,21
+741,Joël Veltman,42
+742,Sead Kolašinac,44
+743,Guido Pizarro,60
+744,Michael Keane,48
+745,Jesse Lingard,65
+746,Bigas,48
+747,Vlad Chiriches,51
+748,Ben Davies,54
+749,Carlos Sánchez,65
+750,Santiago Gentiletti,43
+751,Takashi Inui,51
+752,Raúl Jiménez,86
+753,Joel Campbell,75
+754,Mário Rui,60
+755,MBaye Niang,70
+756,Christoph Kramer,47
+757,Konstantinos Fortounis,80
+758,Joãozinho,83
+759,André Carrillo,68
+760,Rodrigo Moledo,45
+761,Johannes Geis,75
+762,Salif Sané,43
+763,Milan Badelj,68
+764,Agustín Marchesín,14
+765,Lukasz Teodorczyk,65
+766,Nacer Chadli,76
+767,Cristian Tello,56
+768,Bruno,42
+769,Sebastian Rode,51
+770,Nicolai Jørgensen,72
+771,John Guidetti,81
+772,Bruno Martins Indi,38
+773,Jordy Clasie,64
+774,Charles Aránguiz,81
+775,Mathew Ryan,25
+776,Rogelio Funes Mori,70
+777,Aymen Abdennour,51
+778,Mexer,38
+779,Enzo Pérez,82
+780,Teófilo Gutiérrez,72
+781,Dorlan Pabón,80
+782,Charlie Austin,77
+783,Borja Bastón,72
+784,Sergi Enrich,63
+785,Hernán Pérez,48
+786,Thomas Delaney,60
+787,Davy Pröpper,69
+788,Cenk Tosun,82
+789,Koen Casteels,20
+790,Emanuele Giaccherini,69
+791,Allan Nyom,37
+792,Kevin Vogt,53
+793,Fontàs,52
+794,Lamine Sané,33
+795,Gökhan Töre,70
+796,Fredy Montero,77
+797,Celso Borges,77
+798,Michail Antonio,73
+799,Etxeita,30
+800,Julian Baumgartlinger,59
+801,Mehmet Ekici,74
+802,Muniain,61
+803,Susaeta,58
+804,Etrit Berisha,22
+805,Yannick Bolasie,65
+806,Miguel Lopes,50
+807,Senad Lulic,55
+808,Rochina,67
+809,Omar El Kaddouri,70
+810,Denis Glushakov,75
+811,Carlos Zambrano,44
+812,Mame Diouf,75
+813,Onur Kivrak,19
+814,Jefferson Montero,68
+815,Keisuke Honda,76
+816,Bernardo Espinosa,52
+817,Marco Fabián,77
+818,Ivelin Popov,71
+819,Joe Allen,52
+820,Romain Thomas,52
+821,Mehdi Carcela-González,65
+822,Sandro Wagner,64
+823,Pablo Piatti,59
+824,Eric Maxim Choupo-Moting,68
+825,Sebastian Langkamp,38
+826,Neven Subotic,43
+827,Fabian Delph,65
+828,Raúl Bobadilla,68
+829,Troy Deeney,80
+830,Håvard Nordtveit,56
+831,Balázs Dzsudzsák,85
+832,Andy Carroll,73
+833,Borek Dockal,75
+834,Marek Suchý,64
+835,Luiz Adriano,76
+836,Guilherme,12
+837,Ki Sung Yueng,76
+838,Ruud Vormer,79
+839,Etienne Capoue,52
+840,Paul Baysse,50
+841,Cristian Zapata,38
+842,Dieumerci Mbokani,72
+843,Marouane Fellaini,64
+844,Nahuel Guzmán,12
+845,Adrián Ramos,72
+846,Baiano,49
+847,Jan Durica,14
+848,Pedro León,71
+849,Zlatko Junuzovic,70
+850,Luca Antonelli,51
+851,Victor Moses,71
+852,Zurutuza,61
+853,Fraser Forster,22
+854,Lasse Schøne,77
+855,James McArthur,67
+856,Mario Suárez,59
+857,Steven Defour,69
+858,Diego Buonanotte,71
+859,Tim Krul,42
+860,Jack Cork,47
+861,Kenneth Vermeer,30
+862,Rafinha,63
+863,Salvatore Bocchetti,45
+864,Ignazio Abate,48
+865,Rasmus Elm,85
+866,Marco Ruben,74
+867,Jakub Blaszczykowski,70
+868,Adriano,59
+869,Tom Heaton,24
+870,Oleksandr Kucher,33
+871,Karim El Ahmadi,69
+872,Javi García,61
+873,David Abraham,56
+874,Riccardo Montolivo,76
+875,Fabio Quagliarella,77
+876,Jurado,66
+877,Ezequiel Lavezzi,69
+878,Christian Gentner,65
+879,Laurent Ciman,47
+880,Thomas Vermaelen,62
+881,Rodrigo Palacio,79
+882,Per Ciljan Skjelbred,55
+883,Ashley Young,65
+884,Mark Noble,88
+885,Aaron Lennon,62
+886,Christophe Jallet,71
+887,Sergey Ryzhikov,22
+888,Soldado,79
+889,Oscar Wendt,65
+890,Gökhan Gönül,67
+891,José Sosa,75
+892,Ragnar Klavan,44
+893,Willy Caballero,16
+894,Vágner Love,85
+895,Robert Huth,54
+896,Gomes,41
+897,Martín Demichelis,46
+898,Selçuk Inan,88
+899,Alexander Meier,76
+900,Sergey Ignashevich,76
+901,Reyes,72
+902,Nigel de Jong,58
+903,Mathieu Bodmer,76
+904,Joaquín,75
+905,Claudio Pizarro,81
+906,César Navas,50
+907,Alessandro Gamberini,41
+908,Kylian Mbappe Lottin,65
+909,Alban Lafont,16
+910,Renato Sanches,68
+911,Formosandrinho,56
+912,Sidney Pessinho,67
+913,Everticinho,64
+914,Louri Beretta,74
+915,Claudio Coíntra,73
+916,Maikel Catarino,41
+917,Ronaldo Esler,49
+918,Gazzolisco,77
+919,Raphaelito Anjos,23
+920,Mauricio Lemos,41
+921,Dalbert,42
+922,Lorenzo Pellegrini,49
+923,Yeray,61
+924,Vincent Janssen,81
+925,Pablo Fornals,46
+926,Marcos Llorente,53
+927,Martín Campaña,23
+928,Nadiem Amiri,65
+929,Vincent Koziello,60
+930,Vallejo,45
+931,Sener Özbayrakli,44
+932,Franco Cervi,56
+933,Malcom,66
+934,Rick Karsdorp,52
+935,Dani Ceballos,55
+936,Hirving Lozano,64
+937,Yoan Cardinale,23
+938,Badou Ndiaye,65
+939,Alessandro Schöpf,64
+940,Davinson Sánchez,44
+941,Matias Vecino,56
+942,Georges-Kévin Nkoudou,67
+943,Sandro,70
+944,Wesley Hoedt,37
+945,Bastos,50
+946,Wallace,45
+947,Youri Tielemans,76
+948,Alen Halilovic,75
+949,Yuriy Lodygin,22
+950,Silvan Widmer,58
+951,Gino Peruzzi,46
+952,Pablo Pérez,59
+953,Darío Benedetto,66
+954,Iván Marcone,59
+955,Matías Kranevitter,46
+956,Emmanuel Mas,57
+957,Franco Armani,20
+958,Daniel Torres,72
+959,Felipe Pardo,67
+960,Sardar Azmoun,55
+961,Alan Ruiz,66
+962,Diego Rolán,75
+963,Mohamed Elneny,62
+964,Mario Lemina,68
+965,Anderson Talisca,71
+966,Bruno Fernandes,66
+967,Roberto Gagliardini,41
+968,Kerem Demirbay,67
+969,Nicolás Tagliafico,46
+970,Pablo De Blasis,70
+971,Carles Gil,69
+972,Luca Zuffi,61
+973,Juan Fernando Quintero,71
+974,Jonny,46
+975,Otávio,72
+976,Alexander Szymanowski,70
+977,Jhon Córdoba,69
+978,Jozabed,54
+979,Pacheco,23
+980,Sam Larsson,50
+981,Abdul Rahman Baba,42
+982,Andreas Samaris,66
+983,Gabriel,66
+984,Gerard Moreno,73
+985,Erik Durm,55
+986,Tobias Strobl,45
+987,Marçal,43
+988,Leandro Paredes,57
+989,Roberto Torres,78
+990,Mitchell Weiser,58
+991,Dominique Heintz,41
+992,Serge Gnabry,69
+993,Jetro Willems,46
+994,Leonardo Pavoletti,64
+995,Zouhair Feddal,48
+996,Sébastien Haller,86
+997,Lucas Castro,68
+998,Luís Hernández,54
+999,Marcelo,42
+1000,Benjamin Mendy,40
+1001,Willi Orban,41
+1002,Rubén Pardo,69
+1003,Luís Neto,47
+1004,Jores Okore,33
+1005,Tomáš Vaclík,13
+1006,Zé Luís,75
+1007,Pavel Kaderábek,54
+1008,Tonny Vilhena,53
+1009,Terence Kongolo,42
+1010,Leonardo Bittencourt,61
+1011,Álvaro,36
+1012,Stefano Sturaro,68
+1013,Naldo,43
+1014,Recio,61
+1015,Valentin Eysseric,71
+1016,Ahmed Musa,69
+1017,Jordan Veretout,77
+1018,David López,50
+1019,Ciprian Tatarusanu,16
+1020,Ladislav Krejcí,67
+1021,Aïssa Mandi,35
+1022,Ismaily,51
+1023,Nicolas De Préville,67
+1024,Marafona,23
+1025,Marko Devic,74
+1026,Mark Uth,72
+1027,Nicolás Blandi,78
+1028,Campaña,69
+1029,Marco van Ginkel,64
+1030,Wilson Eduardo,73
+1031,Ramiro Funes Mori,52
+1032,Dennis Praet,56
+1033,Sergi Gómez,41
+1034,Brice Dja Djédjé,58
+1035,Sergio Álvarez,41
+1036,Juan Manuel Iturbe,62
+1037,Luis Muriel,74
+1038,Vincent Aboubakar,76
+1039,Nampalys Mendy,55
+1040,Luis Alberto,56
+1041,Florentin Pogba,38
+1042,Stefan Bell,52
+1043,Rodrigo,82
+1044,Benjamin Stambouli,50
+1045,Jordi Amat,28
+1046,Jens Toornstra,56
+1047,Papy Djilobodji,27
+1048,Ioannis Fetfatzidis,65
+1049,Danny Ings,68
+1050,Javi López,56
+1051,Andros Townsend,83
+1052,Montoya,50
+1053,Shinji Okazaki,74
+1054,Alper Potuk,56
+1055,André Pinto,46
+1056,Nemanja Pejcinovic,37
+1057,Germán Pezzella,35
+1058,Mattia Destro,69
+1059,Guram Kashia,51
+1060,Ezequiel Schelotto,54
+1061,Marko Baša,60
+1062,Costel Pantilimon,21
+1063,Marvin Plattenhardt,61
+1064,Bóveda,59
+1065,Andrea Bertolacci,56
+1066,Diego Reyes,50
+1067,Sébastien Corchia,67
+1068,Tomás Rincón,46
+1069,Tolgay Arslan,76
+1070,Jan Kirchhoff,43
+1071,Sebastián Blanco,61
+1072,Rubén Pérez,50
+1073,Luuk de Jong,58
+1074,Éder,73
+1075,Tom Cleverley,72
+1076,Victor Sánchez,61
+1077,Benjamin Hübner,50
+1078,Souza,63
+1079,Bastian Oczipka,63
+1080,Marcel Risse,72
+1081,Jonjo Shelvey,71
+1082,Mauro Díaz,69
+1083,Gustavo Bou,71
+1084,Mirko Valdifiori,52
+1085,Admir Mehmedi,69
+1086,Thomas Heurtaux,39
+1087,Lautaro Acosta,63
+1088,Daryl Janmaat,62
+1089,Lewis Holtby,66
+1090,Juanfran,59
+1091,Maicon,65
+1092,Wanderson,69
+1093,Mauricio Isla,71
+1094,Dayro Moreno,80
+1095,Alberto Paloschi,79
+1096,Christian Träsch,51
+1097,Cheikhou Kouyaté,52
+1098,Geoff Cameron,63
+1099,Ivan Radovanovic,58
+1100,Sven Ulreich,22
+1101,Leroy Fer,72
+1102,Kieran Trippier,39
+1103,Luca Rossettini,45
+1104,Benjamin Moukandjo,79
+1105,Kyriakos Papadopoulos,46
+1106,Facundo Roncaglia,35
+1107,Nicolai Müller,73
+1108,Nabil El Zhar,73
+1109,Yuri,59
+1110,Aurélien Chedjou,57
+1111,Henri Saivet,66
+1112,Valentin Stocker,67
+1113,Max Gradel,75
+1114,Roberto Rosales,48
+1115,Carlos Sánchez,62
+1116,Jose Holebas,57
+1117,Beto,23
+1118,Antonio Rukavina,42
+1119,Mapou Yanga-MBiwa,49
+1120,Makoto Hasebe,61
+1121,Marcelo,51
+1122,Charles Kaboré,65
+1123,Mosquera,51
+1124,Stefano Okaka,68
+1125,Kamil Grosicki,69
+1126,Sebastian Prödl,35
+1127,Jonathan De Guzmán,69
+1128,Alessandro Matri,70
+1129,Vadis Odjidja-Ofoe,72
+1130,Felipe Caicedo,73
+1131,Fran Rico,72
+1132,Mariano Andújar,23
+1133,Nathan Dyer,70
+1134,Óscar Trejo,70
+1135,Marco Andreolli,34
+1136,Javi Varas,23
+1137,Perparim Hetemaj,69
+1138,Eljero Elia,65
+1139,Jonatan Maidana,46
+1140,Caner Erkin,74
+1141,Fábio Coentrão,54
+1142,Jay Rodriguez,71
+1143,Lee Cattermole,64
+1144,Darron Gibson,63
+1145,Shane Long,78
+1146,Rémy Riou,23
+1147,Ron Vlaar,67
+1148,Ari,71
+1149,Bebé,65
+1150,Ismael Sosa,60
+1151,Fernando Gago,69
+1152,Itumeleng Khune,49
+1153,Eugen Polanski,79
+1154,Cyril Théréau,73
+1155,Charles,61
+1156,Sergio,23
+1157,Curtis Davies,33
+1158,Younès Kaboul,54
+1159,Andrea Raggi,57
+1160,Glenn Whelan,65
+1161,Guillaume Gillet,69
+1162,Johan Djourou,48
+1163,Mauro Boselli,75
+1164,Valon Behrami,72
+1165,Agirretxe,64
+1166,Jérémy Ménez,81
+1167,Gökhan Inler,74
+1168,Alexandre Song,66
+1169,Alfredo Talavera,44
+1170,Justo Villar,21
+1171,Robert Snodgrass,73
+1172,Yuriy Zhirkov,72
+1173,Mauro Zárate,70
+1174,Steven Davis,62
+1175,Francesco Magnanelli,57
+1176,Paul Verhaegh,86
+1177,Zydrunas Karcemarskas,23
+1178,Alexey Berezutskiy,48
+1179,Iván Ramis,65
+1180,David García,51
+1181,Volkan Demirel,24
+1182,Matías Delgado,84
+1183,Agustín Orión,18
+1184,Leon Britton,59
+1185,Christian Fuchs,68
+1186,Nicolás Burdisso,41
+1187,Esteban Cambiasso,75
+1188,Glen Johnson,60
+1189,Stefan Kießling,79
+1190,Wes Morgan,17
+1191,Jimmy Briand,69
+1192,Michael Dawson,44
+1193,Iraizoz,13
+1194,Jaime Valdés,75
+1195,Jelle Van Damme,63
+1196,Emmanuel Adebayor,79
+1197,Tranquillo Barnetta,70
+1198,Silvio Proto,25
+1199,Daniele Bonera,49
+1200,Rémy Vercoutre,23
+1201,Morgan De Sanctis,21
+1202,Eliseu,64
+1203,Roman Weidenfeller,17
+1204,Emre Belözoglu,85
+1205,Marko Rog,60
+1206,Issa Diop,44
+1207,Amadou Diawara,52
+1208,Ronaldo Cabrais,73
+1209,David Seijalbo,62
+1210,Vieirundinho,47
+1211,Welington Dano,61
+1212,Nelsildo Reis,40
+1213,Fred Aníbão,24
+1214,Gabri Prestão,26
+1215,Rosberto Dourado,77
+1216,Everton Andrão,61
+1217,Eltildo Correia,77
+1218,Juiano Mestres,62
+1219,Antônio Chiamuloira,66
+1220,Leon Bailey,71
+1221,Marko Pjaca,72
+1222,Palhinha,56
+1223,Bart Ramselaar,58
+1224,Moussa Marega,68
+1225,Daniel Podence,63
+1226,André Onana,27
+1227,Aritz Elustondo,43
+1228,Kelechi Iheanacho,74
+1229,Ivan Ordets,34
+1230,Diogo Jota,61
+1231,Gonçalo Guedes,69
+1232,Danilo,41
+1233,Ozan Tufan,53
+1234,Aytaç Sulu,63
+1235,Ahmet Çalik,44
+1236,Breel Embolo,66
+1237,Nikola Vukcevic,53
+1238,Erick Gutiérrez,67
+1239,Lucas Hernández,34
+1240,Andrija Živkovic,60
+1241,Óscar Romero,65
+1242,Enner Valencia,70
+1243,Sebastián Cristóforo,59
+1244,Diego Carlos,41
+1245,José Luis Gómez,45
+1246,Camarasa,56
+1247,Jonathan Calleri,62
+1248,Gustavo Gómez,32
+1249,Genki Haraguchi,56
+1250,Víctor García,40
+1251,Carlos Mané,65
+1252,Maximilian Philipp,59
+1253,Juan Pablo Añor,66
+1254,Matteo Politano,44
+1255,Kenny Tete,43
+1256,Capa,54
+1257,Armando Izzo,37
+1258,Fernando Monetti,24
+1259,Youssouf Sabaly,43
+1260,Deyverson,66
+1261,Gerardo Alcoba,53
+1262,Emiliano Rigoni,60
+1263,Édson Puch,70
+1264,Gastón Lezcano,65
+1265,Silvio Romero,76
+1266,Carlos Izquierdoz,30
+1267,Sebastián Pérez,52
+1268,Alexander Mejía,37
+1269,Frank Fabra,55
+1270,Éder Balanta,43
+1271,Ricardo Horta,71
+1272,Diego Laxalt,49
+1273,Aderllan Santos,60
+1274,Levin Öztunali,58
+1275,Niklas Stark,39
+1276,Nicolás Castillo,86
+1277,Gabriel,83
+1278,Óscar Duarte,37
+1279,Marcos Lopes,65
+1280,Santi Mina,59
+1281,Leander Dendoncker,44
+1282,Medrán,80
+1283,José Sá,11
+1284,Yannick Gerhardt,50
+1285,Iuri Medeiros,75
+1286,Dominik Kohr,47
+1287,Lazar Markovic,70
+1288,Vincenzo Grifo,63
+1289,Robert Beric,71
+1290,Jonathan Gómez,77
+1291,Gianluca Lapadula,72
+1292,Manquillo,46
+1293,Chancel Mbemba,31
+1294,Ricardo Ferreira,43
+1295,Björn Engels,35
+1296,Mauro Dos Santos,46
+1297,Emerson,55
+1298,Marc Stendera,60
+1299,Jonas Hofmann,74
+1300,Ahmed Hassan,79
+1301,Fabian Schär,80
+1302,Thomas Partey,46
+1303,Matías Britos,69
+1304,Guilherme,55
+1305,Omar Mascarell,75
+1306,Christopher Jullien,55
+1307,Martín Mantovani,42
+1308,Alfred Duncan,44
+1309,Marten de Roon,60
+1310,Adnan Januzaj,60
+1311,Romain Saïss,47
+1312,Abdoulaye Doucouré,45
+1313,Matheus,13
+1314,Bertrand Traoré,66
+1315,Pedro Henrique,48
+1316,Roger,76
+1317,Yassine Benzia,76
+1318,João Pereira,64
+1319,Jordan Ferri,54
+1320,Mattia De Sciglio,49
+1321,Amin Younes,58
+1322,Jairo,65
+1323,Stefano Denswil,63
+1324,Lucas Ocampos,64
+1325,James Ward-Prowse,64
+1326,Alberto Moreno,54
+1327,Okay Yokuslu,60
+1328,Fayçal Fajr,73
+1329,Jordan Pickford,41
+1330,Marcel Sabitzer,65
+1331,Emiliano Sala,67
+1332,Mauricio Pereyra,62
+1333,Ricardo Álvarez,63
+1334,Christophe Kerbrat,48
+1335,Julian Korb,49
+1336,Saido Berahino,73
+1337,Santiago Arias,56
+1338,Kerim Frei,64
+1339,Baptiste Reynet,19
+1340,Charly Musonda,54
+1341,Santiago Vergini,49
+1342,Anthony Knockaert,68
+1343,Felipe Gutiérrez,70
+1344,Mohamed Elyounoussi,64
+1345,Robin Knoche,37
+1346,Fabián Castillo,61
+1347,Aleix Vidal,51
+1348,Javi Espinosa,66
+1349,Serantes,18
+1350,Timmy Chandler,50
+1351,Jeffrey Gouweleeuw,42
+1352,Cristiano Piccini,27
+1353,Martin Hinteregger,64
+1354,Robbie Brady,65
+1355,Ermin Bicakcic,39
+1356,Nemanja Nikolic,73
+1357,Geoffrey Kondogbia,45
+1358,Samu García,63
+1359,Lionel Carole,49
+1360,Muhamed Bešic,48
+1361,Lukas Rupp,63
+1362,Steven Berghuis,65
+1363,Alan Patrick,66
+1364,Hans Vanaken,66
+1365,Pedro Obiang,58
+1366,Timor,69
+1367,Josué,75
+1368,Gálvez,44
+1369,Eric Bauthéac,69
+1370,Harun Tekin,18
+1371,Ibai Gómez,65
+1372,Nicolas Pallois,45
+1373,Timm Klose,41
+1374,Sergio León,81
+1375,Bibras Natcho,84
+1376,Raúl Navas,46
+1377,Óscar Murillo,32
+1378,Josip Drmic,74
+1379,Tomás Pina,59
+1380,Billy Ketkeophomphone,54
+1381,Philipp Wollscheid,42
+1382,Celso Ortíz,40
+1383,Jonas Martin,76
+1384,Jordan Ayew,74
+1385,Felix Wiedwald,22
+1386,Khouma Babacar,70
+1387,Adrien Regattin,72
+1388,Callum Wilson,75
+1389,Simone Verdi,60
+1390,Yonathan Del Valle,69
+1391,Macnelly Torres,62
+1392,Esteban Paredes,78
+1393,Joel Robles,15
+1394,Alfreð Finnbogason,85
+1395,Tom Cairney,57
+1396,Aaron Mooy,73
+1397,Jagoš Vukovic,44
+1398,Laguardia,32
+1399,Nenad Tomovic,41
+1400,Pontus Jansson,39
+1401,Andre Gray,74
+1402,André Almeida,43
+1403,Roger,57
+1404,Francesco Bardi,21
+1405,Guido Burgstaller,66
+1406,Diafra Sakho,73
+1407,Pape Souaré,49
+1408,Manuel Schmiedebach,49
+1409,Iago Herrerín,25
+1410,Christian Clemens,55
+1411,Marc Muniesa,50
+1412,Maxime Le Marchand,42
+1413,Sebastian Jung,44
+1414,Maxime Lestienne,69
+1415,Luciano Narsingh,58
+1416,Javier Aquino,67
+1417,Georgiy Schennikov,59
+1418,Alexandr Kokorin,67
+1419,Pedro Morales,86
+1420,Peter Pekarík,52
+1421,Sandro,62
+1422,Pascal Groß,57
+1423,Xandão,41
+1424,Benjamin André,66
+1425,Dominic Maroh,42
+1426,Léonard Kweuke,78
+1427,Matías Caruzzo,57
+1428,Markus Henriksen,63
+1429,Tony Jantschke,51
+1430,Grégory Sertic,71
+1431,Christian Kabasele,53
+1432,Lukasz Skorupski,22
+1433,Aaron Cresswell,59
+1434,Davide Santon,57
+1435,Danny Latza,51
+1436,Alex McCarthy,41
+1437,Bruno Fornaroli,74
+1438,Jimmy Durmaz,65
+1439,Volkan Sen,65
+1440,Jonathan Kodjia,71
+1441,Miguel Angel Britos,51
+1442,Michel Macedo,33
+1443,Serey Dié,50
+1444,Sofiane Hanni,69
+1445,Riccardo Meggiorini,73
+1446,Oupa Manyisa,78
+1447,Cheick Diabaté,80
+1448,Aatif Chahechouhe,85
+1449,Paul-José Mpoku,79
+1450,Dmitriy Tarasov,52
+1451,Siem de Jong,72
+1452,Franco Di Santo,75
+1453,Matt Ritchie,65
+1454,Fabio Borini,81
+1455,Gaël Kakuta,51
+1456,Diego Ângelo,59
+1457,Andrea Poli,68
+1458,Michal Pazdan,31
+1459,Maurício,70
+1460,Marcelo Larrondo,75
+1461,Michael Lang,59
+1462,Jonathan Biabiany,63
+1463,Kolbeinn Sigþórsson,71
+1464,Lamine Koné,31
+1465,Gregory van der Wiel,43
+1466,Maxi Moralez,74
+1467,Gabriel Mercado,49
+1468,Siphiwe Tshabalala,64
+1469,Anthony Mounier,70
+1470,Gottardi,16
+1471,Simon Terodde,55
+1472,Nils Petersen,77
+1473,Giovanni Sio,72
+1474,Fabian Frei,62
+1475,Fin Bartels,60
+1476,Marc Albrighton,60
+1477,Ciaran Clark,55
+1478,Mërgim Mavraj,51
+1479,Sebastian De Maio,46
+1480,Koo Ja Cheol,74
+1481,Marcelo Martins,76
+1482,Albin Ekdal,68
+1483,Rhodolfo,51
+1484,Luisinho,51
+1485,Dejan Damjanovic,72
+1486,Eren Derdiyok,67
+1487,Thomas Kraft,18
+1488,Damien Da Silva,43
+1489,Emiliano Insúa,66
+1490,Pablo Hernández,72
+1491,Miralem Sulejmani,73
+1492,Marko Marin,58
+1493,Adrián González,76
+1494,Erik Pieters,65
+1495,Papa Kouli Diop,61
+1496,Sergio Sánchez,47
+1497,Granero,73
+1498,Lucas Deaux,48
+1499,Sidney Sam,64
+1500,Martin Harnik,72
+1501,Nabil Dirar,52
+1502,Ludovic Baal,66
+1503,Bojan Jokic,49
+1504,Fabian Lustenberger,55
+1505,Stefan Aigner,61
+1506,Andreas Beck,42
+1507,Simone Missiroli,64
+1508,Yeom Ki Hun,72
+1509,Jozy Altidore,75
+1510,Jelle Vossen,75
+1511,Sacha Kljestan,67
+1512,Sven Kums,76
+1513,Cristian Riveros,71
+1514,Gonzalo Castro,64
+1515,Adrián,67
+1516,Joselu,72
+1517,James Tomkins,43
+1518,Siqueira,82
+1519,Luca Cigarini,72
+1520,Keiren Westwood,31
+1521,Jonas Lössl,12
+1522,Mikel Gonzalez,49
+1523,Paul Aguilar,57
+1524,Aythami Artiles,36
+1525,Andrey Eschenko,55
+1526,Lorenzo De Silvestri,52
+1527,Tarik Elyounoussi,65
+1528,Scott Sinclair,82
+1529,Andrea Masiello,31
+1530,Danijel Milicevic,66
+1531,Hugo Rodallega,74
+1532,Roman Shishkin,56
+1533,Mikhail Kerzhakov,24
+1534,Alan Kasaev,63
+1535,Brad Jones,35
+1536,Doka,63
+1537,Mariano Izco,60
+1538,Lior Refaelov,75
+1539,Caio,66
+1540,Eduardo,37
+1541,Julien Féret,72
+1542,Stéphane Sessègnon,77
+1543,Jonathan Orozco,24
+1544,Rolando,48
+1545,James Morrison,69
+1546,Marvin Matip,44
+1547,Néstor Ortigoza,90
+1548,Jesús Gámez,53
+1549,Abraham,63
+1550,Trashorras,80
+1551,Julio Alberto Barroso,70
+1552,Pirmin Schwegler,66
+1553,Oribe Peralta,73
+1554,Gelson Fernandes,50
+1555,Aaron Hunt,81
+1556,Mounir Obbadi,61
+1557,Guillaume Hoarau,81
+1558,José de Jesús Corona,23
+1559,Charlie Adam,83
+1560,Alexandr Belenov,19
+1561,Àngel Rangel,59
+1562,Jean-Louis Leca,14
+1563,Rubens Sambueza,70
+1564,Jason Puncheon,73
+1565,Jaroslav Drobný,24
+1566,Wes Hoolahan,77
+1567,Vladimir Gabulov,18
+1568,Diego Castro,89
+1569,Cejudo,50
+1570,Andrés Fernández,21
+1571,Yalçin Ayhan,36
+1572,Boštjan Cesar,46
+1573,Leonardo Ponzio,70
+1574,Alejandro Domínguez,78
+1575,Darren Fletcher,62
+1576,Marc Janko,81
+1577,Marco Storari,10
+1578,Daniele Gastaldello,41
+1579,Giampaolo Pazzini,85
+1580,Franco Brienza,79
+1581,Stijn Schaars,76
+1582,Alexis,30
+1583,Hasan Ali Kaldirim,40
+1584,Ersan Gülüm,49
+1585,Marco Borriello,74
+1586,Kolo Touré,57
+1587,Achille Emaná,76
+1588,Gareth McAuley,49
+1589,Artur Boruc,21
+1590,Alberto Aquilani,73
+1591,Wayne Routledge,63
+1592,Matthias Lehmann,78
+1593,Steven Pienaar,63
+1594,Ludovic Butelle,22
+1595,Emiliano Moretti,49
+1596,Jonas Olsson,51
+1597,James Collins,51
+1598,Nick Rimando,35
+1599,Dario Dainelli,30
+1600,Maarten Stekelenburg,23
+1601,Paolo Cannavaro,47
+1602,Carlos Soler,80
+1603,Raphinha,56
+1604,Mikel Villanueva,38
+1605,Federico Ricca,38
+1606,Maurício António,43
+1607,Adalberto Peñaranda,77
+1608,Franck Yannick Kessié,69
+1609,Rafael Cachoira,42
+1610,Nicholas Aldair,74
+1611,Luimo Boas Santos,74
+1612,Adilson Edrada,76
+1613,Allan Bardinho,72
+1614,Simão Acunha,67
+1615,Gabrisco Aníbal,66
+1616,Davi Parrela,51
+1617,Kaimo Lima,66
+1618,Victildinho,63
+1619,Andeson Trigo,67
+1620,Kaíquão Castro,21
+1621,Dani Rochelinhas,71
+1622,Laure Santeiro,61
+1623,Jorginhson,61
+1624,Melvin Parrela,72
+1625,Otávio Cairinho,66
+1626,Caio Nunson,46
+1627,Juli Freitinho,63
+1628,Alexo Baia,66
+1629,Silas Almeim,72
+1630,Simão Donatinho,29
+1631,Gastón Pereiro,62
+1632,Aminu Umar,53
+1633,Yoshinori Muto,56
+1634,Viktor Kovalenko,68
+1635,Kasper Dolberg,71
+1636,Benjamin Henrichs,59
+1637,Christian Pulisic,48
+1638,Lucas Tousart,48
+1639,Jakub Jankto,50
+1640,André Horta,55
+1641,Presnel Kimpembe,43
+1642,Hernani,51
+1643,David García,43
+1644,Mikel Merino,58
+1645,Orbelín Pineda,63
+1646,Rúben Neves,59
+1647,Cristian Pavón,59
+1648,Lucas Torreira,48
+1649,Erdem Sen,65
+1650,Afonso Figueiredo,45
+1651,Mario Pašalic,61
+1652,Ömer Ali Sahiner,63
+1653,Toshihiro Aoyama,58
+1654,Alexis Blin,51
+1655,Thomas Touré,66
+1656,Godfred Donsah,60
+1657,Raúl,51
+1658,Mislav Oršic,68
+1659,Sebastián Driussi,67
+1660,Lovre Kalinic,22
+1661,Rafael Santos Borré,66
+1662,Léo Bonatini,71
+1663,Jaume,25
+1664,Clément Lenglet,43
+1665,Diego Rico,43
+1666,Alex Alegría,59
+1667,Munir,66
+1668,Tana,64
+1669,Hamari Traoré,47
+1670,Edgar Méndez,68
+1671,Jordan Amavi,66
+1672,Rodrigo Battaglia,57
+1673,Ezequiel Cerutti,69
+1674,Djavan,45
+1675,Federico Cartabia,66
+1676,Franco Mussis,51
+1677,Marios Oikonomou,27
+1678,Yuriy Gazinskiy,55
+1679,Seko Fofana,56
+1680,Andrew Robertson,55
+1681,Tin Jedvaj,44
+1682,Maxwel Cornet,70
+1683,Aleksandar Mitrovic,64
+1684,Naranjo,66
+1685,Deniz Türüç,74
+1686,Rúben Vezo,54
+1687,Jonathan Schunke,62
+1688,Martín Cauteruccio,71
+1689,Lucas Zelarayán,67
+1690,Luciano Lollo,69
+1691,Milton Casco,46
+1692,Paolo Goltz,66
+1693,Luis Quiñones,54
+1694,William Tesillo,30
+1695,Yimmi Chará,62
+1696,Jefferson Lerma,58
+1697,Pierre-Emile Højbjerg,51
+1698,Facundo Ferreyra,70
+1699,Laurent Depoitre,62
+1700,Hernâni,65
+1701,Jorrit Hendrix,54
+1702,Leonel Vangioni,62
+1703,Arthur Masuaku,49
+1704,Avilés Hurtado,70
+1705,Riechedly Bazoer,46
+1706,Enzo Roco,34
+1707,Camilo Vargas,46
+1708,Karol Linetty,50
+1709,Danilo Cataldi,52
+1710,Ricardo Kishna,49
+1711,Rubén Blanco,22
+1712,Víctor Rodríguez,80
+1713,Douglas Santos,53
+1714,Renato Steffen,55
+1715,Ridgeciano Haps,50
+1716,Garry Mendes Rodrigues,61
+1717,José Rodríguez,64
+1718,Dimitrios Siovas,40
+1719,José Juan Vázquez,62
+1720,Derlis González,67
+1721,Gerso,67
+1722,Nathan Aké,48
+1723,Isaac Becerra,25
+1724,Giancarlo González,35
+1725,Oumar Niasse,67
+1726,Petros Mantalos,62
+1727,Vitinho,70
+1728,Albentosa,42
+1729,Mike van der Hoorn,40
+1730,Insua,32
+1731,Eduardo Vargas,70
+1732,Will Hughes,60
+1733,Bogdan Butko,36
+1734,Sergiy Kryvtsov,37
+1735,Luka Milivojevic,60
+1736,Willard Katsande,71
+1737,Yvon Mvogo,20
+1738,Calum Chambers,54
+1739,Stefanos Kapino,26
+1740,Marko Livaja,62
+1741,Dwight Gayle,73
+1742,Christian Atsu,73
+1743,Valeri Qazaishvili,67
+1744,Soualiho Meïté,51
+1745,Ilori,41
+1746,Iván Piris,55
+1747,Abdoulaye Ba,68
+1748,Lorenzo Melgarejo,66
+1749,Víctor Ibarbo,70
+1750,Benjamin van Leer,27
+1751,Jürgen Locadia,69
+1752,Yassin Ayoub,72
+1753,Edenílson,66
+1754,Viktor Fischer,65
+1755,Pozuelo,66
+1756,Adrien Trebel,55
+1757,Welthon,69
+1758,Mauro,50
+1759,Ogenyi Onazi,60
+1760,Rodrigo Mora,68
+1761,Gregoire Defrel,55
+1762,Federico Viviani,68
+1763,Jérôme Roussillon,51
+1764,Jota Peleteiro,64
+1765,David Juncà,55
+1766,Bobby Wood,72
+1767,Diego Demme,58
+1768,Jasmin Kurtic,65
+1769,Siniša Andelkovic,36
+1770,Dmitriy Poloz,77
+1771,Ryder,65
+1772,Ravel Morrison,56
+1773,Gaëtan Bussmann,44
+1774,André Martins,67
+1775,Bogdan Stancu,80
+1776,Tolga Cigerci,59
+1777,Juan Jesus,37
+1778,Carles Planas,51
+1779,Tomáš Koubek,20
+1780,Lewis Dunk,36
+1781,Luca Caldirola,42
+1782,Erik Sviatchenko,35
+1783,Renato Neto,75
+1784,Matz Sels,22
+1785,Matthew Lowton,49
+1786,Oriol Romeu,54
+1787,Roberto Inglese,72
+1788,Luna,43
+1789,Lacina Traoré,78
+1790,Danilo DAmbrosio,60
+1791,Nicolas Isimat-Mirin,49
+1792,Saphir Taïder,68
+1793,Nathan Redmond,60
+1794,Kara Mbodj,62
+1795,Cristian Gamboa,54
+1796,Pierre-Michel Lasogga,75
+1797,Róbert Mak,65
+1798,Sérgio Oliveira,74
+1799,Ximo Navarro,48
+1800,Juanmi,62
+1801,Arribas,37
+1802,Ivo Pinto,58
+1803,Giulio Donati,51
+1804,Serdar Gürler,50
+1805,José Pedro Fuenzalida,71
+1806,Bill Hamid,23
+1807,Gonzalo Jara,45
+1808,Ishak Belfodil,66
+1809,Yuto Nagatomo,44
+1810,Andy Delort,75
+1811,Filip Ðuricic,69
+1812,Fábio Espinho,71
+1813,Steven Caulker,50
+1814,Rémy Cabella,72
+1815,Nick Viergever,48
+1816,Philipp Bargfrede,47
+1817,Marco Rojas,64
+1818,Marvin Zeegelaar,53
+1819,Steve Cook,20
+1820,Carlos Eduardo,75
+1821,Miguel Rosa,59
+1822,Artur Ionita,65
+1823,Emmanuel Badu,58
+1824,Juan Villar,62
+1825,Daniel Ginczek,73
+1826,Sergio Padt,25
+1827,Paul Lasne,59
+1828,José Cañas,47
+1829,Nosa,52
+1830,Maya Yoshida,54
+1831,Park Joo Ho,62
+1832,Yuya Osako,70
+1833,Atsuto Uchida,41
+1834,Takashi Usami,59
+1835,Ahmed Elmohamady,59
+1836,Ervin Zukanovic,69
+1837,Kévin Théophile-Catherine,45
+1838,Omar Elabdellaoui,42
+1839,Yasin Öztekin,63
+1840,Ryan Mason,69
+1841,Julian Schieber,72
+1842,Isaac Brizuela,60
+1843,Oier,56
+1844,Dani Castellano,48
+1845,Panagiotis Tachtsidis,60
+1846,Fernandão,83
+1847,Yannis Salibur,65
+1848,Yoric Ravet,53
+1849,Lombán,69
+1850,Fábio,60
+1851,Duje Cop,80
+1852,Olcay Sahan,66
+1853,Cristopher Toselli,20
+1854,João Aurélio,58
+1855,Caiuby,61
+1856,Serdar Aziz,38
+1857,Jake Livermore,57
+1858,Daniel Brosinski,70
+1859,Oussama Assaidi,64
+1860,Alberto Costa,74
+1861,Franck Tabanou,73
+1862,Douglão,44
+1863,Marco Sau,76
+1864,Abel Hernández,81
+1865,Carlos Carmona,64
+1866,Ronny Rodelin,68
+1867,Mubarak Wakaso,36
+1868,Floyd Ayité,60
+1869,Leon Balogun,39
+1870,Matt Phillips,61
+1871,Jefferson,63
+1872,Matías Suárez,68
+1873,Clément Grenier,73
+1874,Soslan Dzhanaev,14
+1875,Rafael Tolói,64
+1876,Dmitriy Kombarov,85
+1877,Jesús Dueñas,62
+1878,Matias Pérez García,69
+1879,Kyle Naughton,47
+1880,Filip Ðordevic,70
+1881,Jan-Arie van der Heijden,66
+1882,Joel Ward,40
+1883,Theodor Gebre Selassie,51
+1884,Patrick van Aanholt,46
+1885,James Chester,52
+1886,Geoffrey Bia,79
+1887,Martin Olsson,49
+1888,Harry Arter,68
+1889,Younousse Sankharé,59
+1890,Jérémy Pied,63
+1891,Mathieu Dossevi,69
+1892,Yohan Mollo,66
+1893,Andreas Bjelland,40
+1894,Bakary Koné,53
+1895,Rui Fonte,74
+1896,Mathias Jørgensen,27
+1897,Jack Rodwell,57
+1898,Fabien Lemoine,58
+1899,Víctor Cáceres,63
+1900,Andrea Ranocchia,34
+1901,Julian Palmieri,61
+1902,Titi,55
+1903,Mile Jedinák,72
+1904,Nuno Pinto,58
+1905,Óscar Cardozo,78
+1906,Vito Mannone,43
+1907,Miguel Torres,36
+1908,Ugur Demirok,65
+1909,Federico Peluso,48
+1910,Alessio Cerci,76
+1911,Romain Danzé,42
+1912,Thomas Mangani,73
+1913,Andrea Costa,37
+1914,Abel Aguilar,59
+1915,Clément Chantôme,57
+1916,Artur Jedrzejczyk,34
+1917,Shkëlzen Gashi,71
+1918,Mossoró,66
+1919,Christian Marrugo,63
+1920,Mevlüt Erdinç,78
+1921,Przemyslaw Tyton,22
+1922,Kei Kamara,74
+1923,Niko Bungert,53
+1924,Birkir Bjarnason,39
+1925,Neil Taylor,44
+1926,Benny Feilhaber,74
+1927,Niklas Moisander,41
+1928,Andrew Surman,67
+1929,Manu García,71
+1930,Carlos Martínez,43
+1931,Gabriel Peñalba,76
+1932,Álvaro Pereira,58
+1933,Hugo Ayala,55
+1934,Nicolás Spolli,33
+1935,Marvin Compper,46
+1936,Wayne Hennessey,17
+1937,Liam Bridcutt,34
+1938,Darren Randolph,30
+1939,Danny Simpson,54
+1940,Omar Ramos,73
+1941,Jérémy Sorbon,39
+1942,Federico Higuaín,62
+1943,Juan Pablo Carrizo,22
+1944,Kirill Nababkin,58
+1945,Miroslav Radovic,68
+1946,Jaba Kankava,30
+1947,Alexandru Gatcan,60
+1948,Ilya Maksimov,50
+1949,Kwak Tae Hwi,65
+1950,Nicolas Maurice-Belay,72
+1951,Bruno Gama,71
+1952,Dennis Aogo,65
+1953,Bradley Wright-Phillips,67
+1954,Sebastian Larsson,78
+1955,Alessandro Diamanti,66
+1956,Geoffrey Jourdren,19
+1957,Daniel Congré,24
+1958,Steven Naismith,79
+1959,Marcos Angeleri,56
+1960,Oleg Ivanov,65
+1961,Fernando Amorebieta,57
+1962,Timofey Kalachev,68
+1963,Matías Silvestre,53
+1964,Jean Beausejour,68
+1965,Nana Asare,66
+1966,Marco Russ,50
+1967,Sejad Salihovic,84
+1968,Ryan Babel,70
+1969,Mathieu Flamini,61
+1970,Aiden McGeady,77
+1971,Juan Insaurralde,40
+1972,Renato Civelli,58
+1973,Ramazan Özcan,16
+1974,Rio Mavuba,57
+1975,Avraam Papadopoulos,75
+1976,Vangelis Moras,29
+1977,Christian Maggio,57
+1978,Guglielmo Stendardo,54
+1979,Luíz Carlos,58
+1980,Renat Yanbaev,65
+1981,Alexandr Anyukov,46
+1982,Vitaliy Kaleshin,49
+1983,Javier Pinola,38
+1984,Iván Cuéllar,25
+1985,Arbeloa,49
+1986,Mikel Rico,60
+1987,Selçuk Sahin,66
+1988,Gökdeniz Karadeniz,71
+1989,Mariano Barbosa,24
+1990,Román Martínez,41
+1991,Leandro Romagnoli,82
+1992,David Marshall,11
+1993,Rafael,22
+1994,Luca Rigoni,51
+1995,Maximiliano López,73
+1996,Germán Lux,12
+1997,Blerim Džemaili,68
+1998,Jonathan Walters,72
+1999,Joey Barton,73
+2000,Alessandro Gazzi,62
+2001,Zoltán Gera,74
+2002,Lee Dong Gook,86
+2003,Emil Hallfreðsson,69
+2004,Arouna Koné,67
+2005,Michael Rensing,18
+2006,Nicolas Douchez,12
+2007,Rod Fanni,65
+2008,Mauricio Pinilla,71
+2009,Jaroslav Plašil,69
+2010,Riesgo,13
+2011,Maximiliano Rodríguez,77
+2012,Alexandr Kerzhakov,80
+2013,Halil Altintop,73
+2014,Tom Huddlestone,72
+2015,Stewart Downing,68
+2016,Fernando Navarro,33
+2017,Massimo Maccarone,75
+2018,Peter Crouch,74
+2019,Etienne Didot,65
+2020,Arthur Boka,52
+2021,Allan McGregor,23
+2022,Alan,84
+2023,Dirk Kuyt,87
+2024,Albano Bizzarri,20
+2025,Alberto Gilardino,71
+2026,Shay Given,44
+2027,Felipe,35
+2028,Marc Roca,55
+2029,Pol Lirola,30
+2030,Malang Sarr,44
+2031,Patrik Schick,58
+2032,Caio Milaçar,73
+2033,Theo Hernández,39
+2034,Casimir Ninga,72
+2035,Ádám Nagy,58
+2036,Emre Akbaba,70
+2037,Jadson Vidigal,77
+2038,Hélton Celanova,76
+2039,Alvildo Sousa,66
+2040,Leo Caldeirinha,65
+2041,Jacson Zonta,71
+2042,Marlon Nideiro,68
+2043,Ailton Guevara,68
+2044,José Mirazar,76
+2045,Fábio Melitinho,72
+2046,Pascoal Muscato,64
+2047,Edercinho Sepa,70
+2048,Fabrio Farinha,64
+2049,Duirval Diniz,61
+2050,Enaldo Toxeto,67
+2051,Paolito Serra,48
+2052,Édundo Oliveira,43
+2053,Josué Chiamulera,56
+2054,Jesus Andradaldo,48
+2055,Lafortiscinho,55
+2056,Padilhisco,55
+2057,Adrianiscito,34
+2058,Nicolás Formido,69
+2059,Kauã Abranches,53
+2060,Sebas Couteira,57
+2061,Edvaldisco,42
+2062,Emilio Piodão,61
+2063,Claudiano Sobrino,71
+2064,Robson Denho,73
+2065,Kaíqundo Calado,54
+2066,Hugo Goiteira,48
+2067,Kel Perinho,48
+2068,Jailson Caeiro,62
+2069,Enaldo Praz,51
+2070,Nikola Stojiljkovic,72
+2071,Riad Bajic,67
+2072,César Montes,48
+2073,Francisco Geraldes,56
+2074,Matheus Pereira,71
+2075,Jeremiah St. Juste,59
+2076,Onyinye Ndidi,35
+2077,Omar Colley,33
+2078,Gonzalo Martínez,56
+2079,Giovani Lo Celso,55
+2080,Sabin Merino,69
+2081,Pedro Gallese,22
+2082,Arturo Mina,45
+2083,Lekue,52
+2084,Adam Masina,31
+2085,Irfan Can Kahveci,60
+2086,Bruno Gaspar,48
+2087,Emiliano Velázquez,37
+2088,Steve Mounié,65
+2089,François Kamano,62
+2090,Karl Toko-Ekambi,67
+2091,Maxime Lopez,61
+2092,Mathías Corujo,52
+2093,Eraso,53
+2094,Ivan Novoseltsev,47
+2095,Andrea Conti,40
+2096,Yusuf Erdogan,50
+2097,Warner Hahn,20
+2098,Walace,60
+2099,Isaac Success,68
+2100,Arber Zeneli,50
+2101,Miloš Jojic,67
+2102,André Geraldes,48
+2103,Mariano,68
+2104,Emanuel Mammana,68
+2105,Nico Elvedi,37
+2106,Jaïro Riedewald,42
+2107,Valentin Vada,58
+2108,Antonio Barreca,22
+2109,Mattia Caldara,30
+2110,Jason Denayer,37
+2111,Simone Scuffet,18
+2112,Thulani Hlatshwayo,45
+2113,Jorge Figal,33
+2114,Fanendo Adi,54
+2115,Chema Rodríguez,46
+2116,Luca Rizzo,63
+2117,Pedro Henrique,43
+2118,Guillermo Maripán,20
+2119,Cafú,70
+2120,Didier Ndong,51
+2121,Fábio Sturgeon,52
+2122,Essaïd Belkalem,36
+2123,Zainadine,45
+2124,Moses Simon,48
+2125,Giovanni Simeone,71
+2126,Salih Uçan,67
+2127,Kendall Waston,39
+2128,Maximiliano Meza,50
+2129,Anwar El Ghazi,63
+2130,Marcelo Goiano,41
+2131,Ignacio Fernández,57
+2132,Damir Kreilach,64
+2133,Alireza Jahanbakhsh,52
+2134,Samir,44
+2135,Burgui,59
+2136,Ayoze Pérez,73
+2137,Christian Mathenia,23
+2138,Guido Carrillo,77
+2139,Leonardo Jara,38
+2140,Joaquín Correa,57
+2141,Guillermo Sara,62
+2142,Rubén Botta,64
+2143,Rodrigo Rey,23
+2144,Julio Furch,64
+2145,Matías Zaldivia,41
+2146,Damián Pérez,55
+2147,Lucas Villafañez,65
+2148,Jean-Philippe Gbamin,40
+2149,Diego González,57
+2150,Postigo,40
+2151,Jeremy Toljan,39
+2152,Matías Laba,57
+2153,Ezequiel Videla,54
+2154,Daniel Bocanegra,52
+2155,Anton Kanibolotskyi,23
+2156,Alexandr Selikhov,19
+2157,Alex Iwobi,56
+2158,Diego Valdés,52
+2159,Fernando Tobio,36
+2160,Rémi Walter,54
+2161,Sven van Beek,54
+2162,Carlos Salcedo,36
+2163,Daniel Amartey,51
+2164,Rodrigo De Paul,56
+2165,Gyasi Zardes,66
+2166,Loïs Diony,66
+2167,Ivan Cavaleiro,72
+2168,Alexander Scholz,33
+2169,Nicolae Stanciu,73
+2170,Pione Sisto,66
+2171,Darko Lazovic,49
+2172,Jérôme Gondorf,62
+2173,Florian Niederlechner,66
+2174,Marc Schnatterer,74
+2175,Andrey Semenov,51
+2176,Lewis Baker,78
+2177,Moussa Konaté,72
+2178,Guillermo Fernández,69
+2179,Ricardo Centurión,67
+2180,Rubén Peña,64
+2181,Paolo Hurtado,69
+2182,Alexandru Maxim,72
+2183,Nikos Karelis,67
+2184,Rodolfo Pizarro,67
+2185,Marcel Halstenberg,67
+2186,Yasser Al Shahrani,62
+2187,Timo Letschert,56
+2188,Júnior Fernandes,61
+2189,Joshua Brenet,56
+2190,Pierrick Capelle,63
+2191,Leiton Jiménez,60
+2192,Rasmus Thelander,33
+2193,Vaná,19
+2194,Dória,41
+2195,Zakaria Bakkali,57
+2196,Adrien Thomasson,57
+2197,Hiroki Sakai,36
+2198,Munas Dabbur,67
+2199,Mitchell Dijks,44
+2200,Robin Quaison,42
+2201,Sergi Samper,52
+2202,Oussama Tannane,70
+2203,Ademilson,72
+2204,Yussuf Poulsen,59
+2205,Thabo Matlaba,58
+2206,Filipe Augusto,68
+2207,Modou Barrow,58
+2208,Filip Helander,34
+2209,Gotoku Sakai,49
+2210,Jürgen Damm,61
+2211,Renan Bressan,58
+2212,Matt Hedges,34
+2213,Moi Gómez,59
+2214,Achraf Lazaar,48
+2215,Amato Ciciretti,60
+2216,Erik Johansson,49
+2217,Denis Stracqualursi,63
+2218,Manuel Pucciarelli,55
+2219,Rúben Ferreira,49
+2220,Luís Leal,66
+2221,Jean-Paul Boëtius,63
+2222,Jean-Daniel Akpa Akpro,56
+2223,Molla Wagué,34
+2224,Aleksandar Katai,72
+2225,Toni Leistner,40
+2226,Toño,62
+2227,Salvador Agra,67
+2228,Diogo Figueiras,48
+2229,David Simón,38
+2230,Darío Lezcano,69
+2231,Sadio Diallo,68
+2232,Lucas Andersen,50
+2233,Damián Suárez,67
+2234,Francisco Silva,58
+2235,Alexandr Erokhin,65
+2236,Alyaksandr Martynovich,56
+2237,Lucas Piazon,73
+2238,Neeskens Kebano,74
+2239,Thievy,56
+2240,Willy Boly,56
+2241,Leigh Griffiths,69
+2242,Víctor Álvarez,44
+2243,Fernando Uribe,74
+2244,Simon Zoller,69
+2245,Joao Plata,69
+2246,Konstantinos Stafylidis,46
+2247,Matthias Ostrzolek,60
+2248,Darlington Nagbe,61
+2249,Benik Afobe,72
+2250,Jonathan Schmid,63
+2251,Gabriel,22
+2252,Juankar,55
+2253,Gabriel Torje,73
+2254,Rasmus Falk Jensen,53
+2255,Ivan Strinic,61
+2256,Tomáš Kalas,53
+2257,Diego,68
+2258,Brecht Dejaegere,60
+2259,Vladislav Stoyanov,18
+2260,Moritz Leitner,44
+2261,Alhassan Wakaso,36
+2262,Liam Moore,20
+2263,Guillermo Burdisso,48
+2264,Artem Fedetskyi,59
+2265,Tom Ince,68
+2266,Jeff Hendrick,51
+2267,Santiago García,67
+2268,Adam Maher,59
+2269,Ricardo van Rhijn,55
+2270,Magomed Ozdoev,54
+2271,Emmanuel Emenike,66
+2272,Musa Çagiran,65
+2273,Diego Mariño,23
+2274,Sebá,64
+2275,Deivid,49
+2276,Hong Chul,70
+2277,Raphael Martinho,57
+2278,Jonathan Delaplace,55
+2279,Bryan Dabo,58
+2280,Kamohelo Mokotjo,50
+2281,Michael Arroyo,74
+2282,Trent Sainsbury,65
+2283,Sergey Petrov,50
+2284,Vincent Pajot,59
+2285,Andy Najar,66
+2286,Jonas Svensson,48
+2287,James McClean,65
+2288,Abdul Majeed Waris,65
+2289,Franco Jara,72
+2290,Raul García,64
+2291,Luc Castaignos,62
+2292,Samu Saiz,71
+2293,Antonino Ragusa,58
+2294,Jacopo Sala,65
+2295,Ibrahima Baldé,64
+2296,Brou Benjamin Angoua,43
+2297,Mathieu Peybernès,38
+2298,Fransérgio,77
+2299,Miloš Ninkovic,72
+2300,Florian Kainz,58
+2301,Tiago Pinto,51
+2302,Maxim Kanunnikov,61
+2303,Rami Gershon,45
+2304,Luca Marrone,73
+2305,Stefan Ilsanker,37
+2306,Tomoaki Makino,38
+2307,Fallou Diagne,56
+2308,Magaye Gueye,60
+2309,Jano Ananidze,72
+2310,Osmar,68
+2311,Rômulo,66
+2312,Nélson Lenho,46
+2313,Dodô,46
+2314,Arnaud Souquet,49
+2315,Hanno Behrens,56
+2316,Haris Seferovic,66
+2317,Benjamin Jeannot,72
+2318,Paulo Victor,14
+2319,Alan Pulido,66
+2320,Walid Mesloub,61
+2321,Artur Yusupov,57
+2322,Shane Duffy,55
+2323,Júnior Caiçara,78
+2324,Rafael,23
+2325,Edwin Cardona,64
+2326,Vladislav Ignatiev,70
+2327,Chris Wood,74
+2328,Hrvoje Milic,61
+2329,Valon Berisha,66
+2330,Botía,29
+2331,Lucas Orbán,61
+2332,Alejandro Bedoya,49
+2333,Fidel Martínez,70
+2334,Connor Wickham,75
+2335,Luigi Sepe,17
+2336,Préjuce Nakoulma,58
+2337,Antonio Ríos,55
+2338,Laurens De Bock,63
+2339,Omar Gonzalez,30
+2340,Míchel,74
+2341,Johannes Hopf,19
+2342,José Ángel,45
+2343,Karl-Johan Johnsson,17
+2344,Steven Zuber,55
+2345,Yevhen Seleznyov,80
+2346,Maikel van der Werff,61
+2347,Robbin Ruiter,24
+2348,Ismail Köybasi,35
+2349,Kiko Femenía,60
+2350,Da Costa,23
+2351,Ben Mee,36
+2352,Dani Hernández,25
+2353,Bamba Anderson,50
+2354,Diego Farías,69
+2355,Dennis Diekmeier,48
+2356,Jonathan Urretaviscaya,61
+2357,Nélson Oliveira,75
+2358,Gabriele Angella,49
+2359,Alexander Esswein,60
+2360,Tunay Torun,56
+2361,Saúl Berjón,82
+2362,Fidel,72
+2363,Eloy Room,37
+2364,Marcelo Estigarribia,70
+2365,Laure,48
+2366,George Lebese,62
+2367,Delvin NDinga,50
+2368,Benoît Poulain,65
+2369,Mohamed Diamé,63
+2370,Dani Pacheco,69
+2371,Ramon Motta,61
+2372,Carlos Villanueva,73
+2373,Fabrizio Cacciatore,39
+2374,Lucas Viatri,64
+2375,Douglas,46
+2376,Abdelhamid El Kaoutari,32
+2377,Essam El-Hadary,20
+2378,Frédéric Sammaritano,64
+2379,Rudy Gestede,66
+2380,Ricardo Laborde,63
+2381,Douglas,14
+2382,Alexey Ionov,66
+2383,Viktor Vasin,68
+2384,Sloan Privat,66
+2385,Stefan Johansen,51
+2386,Albert Adomah,65
+2387,Gojko Kacar,69
+2388,Kiko Olivas,38
+2389,Matías Alustiza,81
+2390,Dentinho,64
+2391,Christian Stuani,82
+2392,Adam Clayton,66
+2393,Maciej Rybus,62
+2394,Elías Hernández,65
+2395,Konstantin Rausch,66
+2396,Tomáš Hubocan,63
+2397,Miroslav Stoch,70
+2398,Yoel,25
+2399,Péter Gulácsi,24
+2400,Fabiano,22
+2401,Ismaël Traoré,49
+2402,Djalma,57
+2403,Ádám Szalai,76
+2404,Vincent Bessat,58
+2405,Romain Alessandrini,73
+2406,Ricky van Wolfswinkel,80
+2407,Castro,63
+2408,Nolan Roux,76
+2409,Juan Forlin,51
+2410,Daine Klate,57
+2411,Ali Çamdali,61
+2412,Slobodan Rajkovic,41
+2413,Jesús Molina,52
+2414,Erwin Mulder,25
+2415,Daniel Schwaab,55
+2416,Jonny Howson,71
+2417,Cheikh MBengue,31
+2418,Víctor Díaz,42
+2419,Yohan Benalouane,38
+2420,Milan Škoda,77
+2421,Claudio Beauvue,70
+2422,Walter Gargano,59
+2423,Ricardo,24
+2424,Robbie Kruse,65
+2425,Mitchell Langerak,22
+2426,Dale Stephens,44
+2427,Alexandru Epureanu,51
+2428,Vassilis Torosidis,50
+2429,Romain Genevois,40
+2430,Tomáš Necid,78
+2431,Márcio Azevedo,66
+2432,František Rajtoral,57
+2433,Kengo Nakamura,80
+2434,Szymon Pawlowski,68
+2435,Marcel Heller,54
+2436,Gary Hooper,72
+2437,Ola Kamara,71
+2438,Youssouf Mulumbu,57
+2439,Fernando Forestieri,73
+2440,Bracali,23
+2441,Craig Gardner,81
+2442,Giuseppe Vives,55
+2443,Abdou Razack Traoré,70
+2444,Lee Nguyen,76
+2445,Aykut Demir,44
+2446,Milan Biševac,59
+2447,Modibo Diakité,41
+2448,Mathieu Coutadeur,70
+2449,Mbaye Leye,68
+2450,Manuel Iturra,40
+2451,Ola Toivonen,71
+2452,Jean-Sylvain Babin,44
+2453,Änis Ben-Hatira,58
+2454,Roberto Ovelar,61
+2455,Duško Tošic,43
+2456,Kwoun Sun Tae,22
+2457,Yura Movsisyan,77
+2458,Oswaldo Vizcarrondo,55
+2459,Johnny Herrera,60
+2460,De las Cuevas,61
+2461,Sebastián Leto,68
+2462,Glenn Murray,75
+2463,Panagiotis Kone,59
+2464,Varela,74
+2465,Mike Jensen,67
+2466,Elustondo,67
+2467,James Troisi,69
+2468,José María Basanta,47
+2469,De la Bella,49
+2470,Graham Dorrans,75
+2471,Diego Capel,74
+2472,Landry Joel NGuemo,35
+2473,José Enrique,55
+2474,Stephen Ireland,66
+2475,Felix Bastians,60
+2476,Micah Richards,53
+2477,Charlie Daniels,72
+2478,Victor Anichebe,65
+2479,Barragán,55
+2480,Sergio Floccari,72
+2481,Serge Gakpé,65
+2482,Taiseer Al Jassam,75
+2483,Boukary Dramé,54
+2484,Zdravko Kuzmanovic,72
+2485,Zeca,61
+2486,Morgan Amalfitano,72
+2487,Jesús Méndez,54
+2488,Andrey Sinitsyn,21
+2489,Marc Wilson,56
+2490,Hakan Balta,63
+2491,Evandro,79
+2492,Leonardo Ulloa,68
+2493,Cássio,24
+2494,Joe Ledley,71
+2495,Brad Guzan,35
+2496,Nedum Onuoha,53
+2497,Jérémy Clément,63
+2498,Richard Keogh,31
+2499,Russell Martin,66
+2500,Daniele Padelli,22
+2501,Alexander Baumjohann,59
+2502,David Ousted,21
+2503,Abdoulay Konko,50
+2504,Élton,72
+2505,Andrés Pérez,62
+2506,Oriol Riera,63
+2507,Damien Delaney,66
+2508,Alaixys Romao,57
+2509,Cristian Campestrini,21
+2510,Besart Berisha,75
+2511,Ricardo,29
+2512,Ashkan Dejagah,71
+2513,Sylvain Marveaux,73
+2514,Toché,73
+2515,Yoan Gouffran,77
+2516,Moisés Muñoz,15
+2517,Ross McCormack,74
+2518,Shin Hwa Yong,13
+2519,Juan Martínez,71
+2520,Edgar Barreto,61
+2521,José Sand,78
+2522,Bobô,73
+2523,Alexander Tettey,59
+2524,Henri Bedimo,58
+2525,Romain Salin,11
+2526,Sergio Pellissier,76
+2527,Oleg Kuzmin,52
+2528,Miguel Flaño,52
+2529,Tito,44
+2530,Eren Albayrak,63
+2531,Serkan Kirintili,10
+2532,Muhammet Demir,75
+2533,Luciano Pocrnjic,24
+2534,Tolga Zengin,17
+2535,Leandro Desábato,50
+2536,Pierre Webó,66
+2537,Daniel Díaz,67
+2538,Alejandro Palacios,13
+2539,Paulo Da Silva,63
+2540,Lucian Sânmartean,72
+2541,Jérémy Morel,72
+2542,Carl Medjani,45
+2543,Domenico Maietta,19
+2544,Goran Pandev,68
+2545,Daniele Croce,60
+2546,Mattia Cassani,59
+2547,Massimo Gobbi,55
+2548,Simon Francis,44
+2549,Roberto Hilbert,42
+2550,Scott Brown,76
+2551,Jermaine Pennant,61
+2552,Jermaine Jones,68
+2553,Renaud Cohade,78
+2554,Franck Béria,61
+2555,Steeve Elana,12
+2556,Cani,70
+2557,Yohann Pelé,13
+2558,Cesare Bovo,70
+2559,Simone Pepe,80
+2560,Simone Padoin,72
+2561,Rob Green,21
+2562,Clemens Fritz,62
+2563,Jérémie Aliadiere,70
+2564,Sébastien Squillaci,53
+2565,Shaun Maloney,75
+2566,Fabricio Coloccini,58
+2567,Aliaksandr Hleb,63
+2568,Sylvain Armand,61
+2569,Antonio Floro Flores,74
+2570,Andreas Johansson,64
+2571,Ricardo Costa,40
+2572,Nicolas Penneteau,15
+2573,Timmy Simons,90
+2574,John OShea,47
+2575,Tarantini,66
+2576,Lukáš Pokorný,53
+2577,Gastón Guruceaga,18
+2578,Lindsay Rose,36
+2579,Aarón Martín,43
+2580,Darko Brasanac,70
+2581,Pedrinho,76
+2582,Konstantinos Laifis,54
+2583,Yu Kobayashi,62
+2584,Fernando Zampedri,67
+2585,Tsukasa Shiotani,41
+2586,Masaaki Higashiguchi,15
+2587,Çaglar Söyüncü,52
+2588,Dany Cure,67
+2589,Walter González,67
+2590,Yusuf Yazici,60
+2591,Miguel Silva,13
+2592,Hernán Toledo,58
+2593,Filip Krovinovic,58
+2594,Mouctar Diakhaby,39
+2595,Mijat Gacinovic,59
+2596,Benjamin Meseira,51
+2597,Gus Outomouro,56
+2598,Dênildo Stein,64
+2599,Gérson Noalha,76
+2600,Erick Gameira,72
+2601,Elias Fontoira,72
+2602,Pietrson Mendes,68
+2603,Brenito Duarte,57
+2604,Michildo Melo,37
+2605,Heitinho Zanon,44
+2606,Oswaldito Cuba,59
+2607,Nivo Serpinho,15
+2608,Pierrino Faria,21
+2609,Victorino Magela,24
+2610,Evandro Rochedo,72
+2611,Gustavo Lobateiro,56
+2612,Jorge Carvallinho,61
+2613,Ailton Valpaços,50
+2614,Fabiano Sonta,44
+2615,Osvaldo Lodeiro,75
+2616,Vinicius Cardenha,67
+2617,Juli Piresinho,65
+2618,Freder Cabral,13
+2619,Jaim Abra,26
+2620,Pierre Lees-Melou,49
+2621,Milot Rashica,45
+2622,Tendai Ndoro,73
+2623,Borja Mayoral,69
+2624,Edmilson Junior,63
+2625,Alfonso Pedraza,64
+2626,Simon Deli,53
+2627,Oleksandr Zinchenko,59
+2628,Eber Bessa,60
+2629,Frédéric Guilbert,44
+2630,Cyle Larin,63
+2631,Fabián Sambueza,65
+2632,Marcos Díaz,23
+2633,Jorge Moreira,39
+2634,Camilo Mayada,68
+2635,Andrés Ibargüen,53
+2636,Sinan Gümüs,59
+2637,Alex Berenguer,66
+2638,Keagan Dolly,54
+2639,Motaz Hawsawi,43
+2640,Jorge Benítez,67
+2641,Marín,32
+2642,Kenneth Saief,61
+2643,James Sánchez,62
+2644,David Soria,23
+2645,Valentin Rongier,63
+2646,Timo Baumgartl,36
+2647,Kuca,71
+2648,Mohamed Larbi,53
+2649,Juan Martín Lucero,71
+2650,Nelson Acevedo,45
+2651,Ali Adnan,66
+2652,Enes Ünal,68
+2653,Sibusiso Vilakazi,34
+2654,Diego Churín,74
+2655,Masato Morishige,68
+2656,Bernard Mensah,59
+2657,Andrés Cubas,51
+2658,Ondrej Duda,56
+2659,Manuel Locatelli,60
+2660,Hélder Costa,67
+2661,Enzo Crivelli,58
+2662,Boschilia,52
+2663,Lee Jae Sung,44
+2664,Hernán Hechalar,65
+2665,Steve Birnbaum,35
+2666,Luca Mazzitelli,44
+2667,Andrés Felipe Roa,58
+2668,Germán Conti,47
+2669,Pau López,25
+2670,Anderson Esiti,55
+2671,Federico Melchiorri,64
+2672,Zaldúa,32
+2673,Iliass Bel Hassani,58
+2674,Cotán,44
+2675,Bruno Varela,24
+2676,Mahmoud Abdel Moneim,69
+2677,Ebenezer Ofori,50
+2678,Stipe Perica,61
+2679,Firmin Ndombe Mubele,65
+2680,Mbwana Ally Samatta,70
+2681,Junya Tanaka,73
+2682,Miha Mevlja,47
+2683,Anderson Plata,53
+2684,Lukas Spalvis,60
+2685,Allan Saint-Maximin,47
+2686,Marcel Tisserand,56
+2687,Idris,53
+2688,Antonio Di Gaudio,56
+2689,Gaetano Letizia,45
+2690,Federico Carrizo,69
+2691,Jorge Broun,23
+2692,Damián Musto,36
+2693,Marlon Santos,58
+2694,Andrea Petagna,65
+2695,Kenedy,67
+2696,Jason,72
+2697,Roni,62
+2698,Lucas Janson,54
+2699,Fernando Manríquez,75
+2700,Enzo Kalinski,41
+2701,Carlos Carbonero,63
+2702,Brahian Alemán,61
+2703,Germán Voboril,37
+2704,Juan Caicedo,71
+2705,Victor Ayala,58
+2706,Jefferson Duque,82
+2707,Farid Díaz,61
+2708,Freddy Hinestroza,47
+2709,Wilmar Barrios,32
+2710,Jefferson Cuero,58
+2711,Angelo Rodríguez,64
+2712,David Silva,55
+2713,Ricardo Jérez,25
+2714,Guillermo Celis,37
+2715,Esteban Pavez,39
+2716,Leandro Castellanos,24
+2717,José Cuadrado,23
+2718,Alexey Miranchuk,57
+2719,Nicolás Vikonis,22
+2720,Carlos Lizarazo,69
+2721,Adama,47
+2722,Mykyta Shevchenko,22
+2723,Fábio Cardoso,39
+2724,Erick Pulgar,48
+2725,Felipe Mora,64
+2726,Saulo Decarli,39
+2727,Frank Acheampong,63
+2728,Cifuentes,57
+2729,Jimmy Cabot,55
+2730,Josué,40
+2731,William Dutoit,25
+2732,Walker Zimmerman,56
+2733,Romain Philippoteaux,48
+2734,Mauro Matos,77
+2735,Clinton Njie,56
+2736,Ricardo Esgaio,83
+2737,Luciano,61
+2738,Alexandru Chipciu,67
+2739,Koo Ja Ryong,32
+2740,Kwon Chang Hoon,55
+2741,Moussa Dembélé,77
+2742,Riza Durmisi,40
+2743,Mpho Makola,47
+2744,Frederico Venâncio,40
+2745,Georgi Milanov,54
+2746,Rubén García,68
+2747,Mohammed Khalil Al Owais,19
+2748,Vincent Laurini,41
+2749,Marc-Oliver Kempf,52
+2750,Louis Schaub,64
+2751,Ilya Kutepov,36
+2752,Darwin Machís,62
+2753,Renato Santos,59
+2754,André Ramalho,42
+2755,Chisamba Lungu,59
+2756,Bilal Basaçikoglu,50
+2757,Victor Andrade,71
+2758,Jordan Adéoti,32
+2759,Stefan Mitrovic,35
+2760,Gaëtan Laborde,66
+2761,Mathieu Michel,14
+2762,Maxime Poundjé,45
+2763,Nawaf Al Abed,75
+2764,Ryan Gauld,58
+2765,Mohammed Al Sahlawi,80
+2766,Sam Byram,50
+2767,Eric Bicfalvi,73
+2768,Dragos Grigore,56
+2769,Raheem Lawal,50
+2770,Thomas Foket,49
+2771,Andreas Pereira,49
+2772,Clinton Mata,49
+2773,Olivier Boumal,61
+2774,Dimitrios Pelkas,67
+2775,Ivan Santini,75
+2776,Alfonso González,61
+2777,Josef Alexander Martínez,56
+2778,Dom Dwyer,69
+2779,Cristiano,69
+2780,Simon Tibbling,52
+2781,Viktor Claesson,63
+2782,Jordan Lukaku,53
+2783,Simon Falette,44
+2784,Héctor Canteros,69
+2785,Luciano Aued,67
+2786,Kalifa Coulibaly,68
+2787,Silviu Lung Jr.,17
+2788,Luciano Abecasis,47
+2789,Solomon Kverkvelia,36
+2790,Jan Kopic,64
+2791,Matteo Bianchetti,39
+2792,Alex Pritchard,66
+2793,Ewerton,47
+2794,Karim Rekik,41
+2795,Portu,51
+2796,Charlie Taylor,45
+2797,Pawel Olkowski,47
+2798,Ghayas Zahid,49
+2799,Ole Kristian Selnæs,51
+2800,Raúl Ruidíaz,67
+2801,Santiago García,71
+2802,Florin Gardos,50
+2803,Michael de Leeuw,71
+2804,Jakub Brabec,49
+2805,Marvin Bakalorz,64
+2806,Koffi Djidji,30
+2807,Gabriel Hauche,77
+2808,Alban Meha,60
+2809,Aron Jóhannsson,78
+2810,Ahmed El-Shenawy,21
+2811,Juan Ignacio Gomez,69
+2812,Hlompho Kekana,56
+2813,Balliu,29
+2814,Pawel Wszolek,51
+2815,Chris Löwe,58
+2816,Adnane Tighadouini,75
+2817,Harry Maguire,40
+2818,Oscar Hiljemark,64
+2819,Leonardo Spinazzola,59
+2820,Gianluca Caprari,56
+2821,Alexander Schwolow,22
+2822,Danilo Avelar,79
+2823,Alex Martínez,55
+2824,Diego Arias,60
+2825,Abdoulay Diaby,63
+2826,Aziz Behich,47
+2827,Nacho Cases,49
+2828,Ola John,62
+2829,Felix Klaus,62
+2830,Jaimen Ayoví,65
+2831,Remo Freuler,61
+2832,Anthony Limbombe,46
+2833,Yacouba Sylla,55
+2834,Álvaro,70
+2835,Federico Santander,69
+2836,Fegor Ogude,42
+2837,Camillo Ciano,76
+2838,Afriyie Acquah,60
+2839,Dominik Kaiser,74
+2840,Oliver Sorg,51
+2841,Jerry Mbakogu,73
+2842,Emmanuel Gigliotti,77
+2843,Carl Jenkinson,49
+2844,Pedro Mendes,35
+2845,James Forrest,68
+2846,Nico Schulz,56
+2847,Guilherme,57
+2848,Lukas Hinterseer,71
+2849,Ben Rienstra,56
+2850,Ben Gibson,21
+2851,Marco Bizot,36
+2852,Aras Özbiliz,74
+2853,Arbilla,47
+2854,Marco Matias,67
+2855,Tino-Sven Sušic,73
+2856,Anders Christiansen,68
+2857,Bartosz Bereszynski,59
+2858,Sylvester Igboun,70
+2859,Almog Cohen,66
+2860,Fernando Canesín,63
+2861,Montañés,60
+2862,Claiton,18
+2863,Joselu,75
+2864,Santos,65
+2865,Ilja Nestorovski,64
+2866,João Pedro,69
+2867,Yun Young Sun,33
+2868,Raúl Lizoain,24
+2869,Georgios Tzavellas,64
+2870,Ibragim Tsallagov,41
+2871,Kévin Malcuit,51
+2872,Grant Hanley,40
+2873,Jonathan Williams,60
+2874,Zakaria Labyad,68
+2875,Martin Linnes,41
+2876,Tano Bonnin,51
+2877,Sebastián Dubarbier,59
+2878,Guerrero,65
+2879,Leandro Bacuna,76
+2880,François Moubandje,56
+2881,Denis Alibec,69
+2882,Lorenzo Crisetig,59
+2883,Idriss Saadi,68
+2884,Karim Ansarifard,61
+2885,Héldon,71
+2886,Željko Brkic,16
+2887,Borja García,62
+2888,Daniel Ayala,37
+2889,Knowledge Musona,73
+2890,Christoph Moritz,58
+2891,Lasse Sobiech,71
+2892,Pelé,75
+2893,Necip Uysal,60
+2894,Jack Colback,59
+2895,Conor Hourihane,64
+2896,Dario Dumic,31
+2897,Tom Lees,42
+2898,Beram Kayal,58
+2899,Idrissa Sylla,63
+2900,Jonathan Estrada,71
+2901,Joel Obi,59
+2902,Vid Belec,23
+2903,Adama Traoré,53
+2904,Christian Santos,80
+2905,Vincent Le Goff,43
+2906,Yeni Ngbakoto,66
+2907,Giorgi Loria,26
+2908,Juanpe,37
+2909,Kike,70
+2910,Mato Jajalo,69
+2911,Milton Caraglio,75
+2912,Artjoms Rudnevs,74
+2913,Johnathan,58
+2914,Bruno César,68
+2915,Paulinho,65
+2916,Kristoffer Nordfeldt,13
+2917,Niklas Hult,50
+2918,Néstor Araujo,45
+2919,Yun Suk Young,54
+2920,Kim Shin Wook,75
+2921,Kim Seung Gyu,12
+2922,Shinzo Koroki,71
+2923,Osama Hawsawi,68
+2924,Ivan Obradovic,50
+2925,Juan Mercier,63
+2926,Jóhann Berg Gudmundsson,57
+2927,Felix Kroos,60
+2928,Kian Hansen,33
+2929,Matt Besler,52
+2930,Ortuño,70
+2931,Mike Frantz,57
+2932,Daniel Villalva,63
+2933,Darwin Quintero,59
+2934,Osvaldo Martínez,79
+2935,Edgar Benítez,66
+2936,Nicola Rigoni,51
+2937,Eyong Enoh,56
+2938,Javi Castellano,44
+2939,Vincent Manceau,54
+2940,Gianluca Sansone,77
+2941,Ezequiel Luna,33
+2942,Quique,71
+2943,Moestafa El Kabir,68
+2944,Marko Vejinovic,76
+2945,Alcalá,39
+2946,Guaita,29
+2947,Sílvio,54
+2948,Harrison Afful,53
+2949,Jaime Romero,59
+2950,Mads Albæk,57
+2951,Ashley Westwood,55
+2952,Maximiliano Caire,35
+2953,Garath McCleary,65
+2954,Luca Siligardi,61
+2955,Alex Bergantiños,58
+2956,Emmanuel Imorou,55
+2957,Mehdi Mostefa,59
+2958,Igor Lewczuk,52
+2959,Stijn Wuytens,55
+2960,Wallace Reis,53
+2961,Ricardo Noir,59
+2962,George Friend,50
+2963,Sergey Politsevich,52
+2964,David Yurchenko,24
+2965,Rens van Eijden,41
+2966,Jair Pereira,50
+2967,Jorge Hernández,69
+2968,Vladimir Granat,41
+2969,Luis Fuentes,63
+2970,Anders Konradsen,59
+2971,Moussa Maâzou,70
+2972,Hugo González,39
+2973,Alexander Büttner,74
+2974,Claudemir,60
+2975,Vítor Gomes,59
+2976,Ezequiel Muñoz,21
+2977,Alberto,21
+2978,Raúl Fernández,24
+2979,Hamdi Harbaoui,63
+2980,Roman Neustädter,58
+2981,Levan Mchedlidze,56
+2982,Kyle Bartley,46
+2983,Oliver Norwood,56
+2984,Henri Lansbury,72
+2985,Ørjan Nyland,25
+2986,Joshua King,69
+2987,Vegard Forren,60
+2988,Thomas Rogne,44
+2989,Deniz Kadah,72
+2990,Lora,49
+2991,Javier Morales,72
+2992,Felipe,45
+2993,Stefanos Athanasiadis,74
+2994,Dan Gosling,61
+2995,Aurélien Collin,49
+2996,Jordan Rhodes,84
+2997,Fábio Pacheco,44
+2998,Ömer Sismanoglu,63
+2999,Alan Judge,58
+3000,Sebastien Dewaest,40
+3001,Orlando Sá,71
+3002,Martin Hansen,14
+3003,Martin Kelly,58
+3004,Vurnon Anita,45
+3005,Mandla Masango,59
+3006,Georg Margreitter,23
+3007,Natxo Insa,59
+3008,Barry Bannan,70
+3009,Fran Mérida,79
+3010,Nacer Barazite,72
+3011,Eros Pisano,55
+3012,Pål André Helland,64
+3013,Marcello Gazzola,49
+3014,Jamel Saihi,59
+3015,Diego Vera,73
+3016,Mahmut Tekdemir,56
+3017,Rúben Ribeiro,71
+3018,David Stockdale,19
+3019,Konstantin Vassiljev,76
+3020,Maurício Ramos,42
+3021,Alexander Gerndt,67
+3022,Pierre Bengtsson,56
+3023,Anderson Luís,56
+3024,Craig Cathcart,28
+3025,Tommy Elphick,29
+3026,Luis Robles,19
+3027,Sam Vokes,74
+3028,Varela,54
+3029,Javier García,19
+3030,Daniel Ciofani,65
+3031,Nicolas Frey,41
+3032,Ryan Donk,50
+3033,Diego Biseswar,40
+3034,Bueno,68
+3035,Özer Hurmaci,61
+3036,Gaëtan Bong,40
+3037,Kévin Monnet-Paquet,54
+3038,Tobias Sippel,18
+3039,Haris Medunjanin,76
+3040,Lasse Nielsen,38
+3041,Tore Reginiussen,32
+3042,Mikael Lustig,33
+3043,Welliton,77
+3044,Daniel Larsson,65
+3045,Juan Ángel Albín,68
+3046,Juan Camilo Zúñiga,67
+3047,Dax McCarty,66
+3048,Ritchie De Laet,40
+3049,Mateus,59
+3050,Kevin McDonald,48
+3051,Krzysztof Maczynski,40
+3052,Sone Aluko,71
+3053,Veli Kavlak,71
+3054,Torrejón,46
+3055,Federico Dionisi,70
+3056,Sébastien Bassong,50
+3057,Alex López,68
+3058,Crespo,41
+3059,Onur Kaya,60
+3060,Ignacio Scocco,69
+3061,Sereno,47
+3062,Marco Motta,52
+3063,David Rodríguez,78
+3064,Cole Skuse,61
+3065,Ukra,72
+3066,Urby Emanuelson,68
+3067,Mehdi Lacen,59
+3068,Emmanuel Cascione,73
+3069,Markus Suttner,38
+3070,Jonathan Fabbro,69
+3071,Sami Allagui,66
+3072,Alberto Rodríguez,30
+3073,Elkin Soto,71
+3074,Yannick Cahuzac,47
+3075,Semih Kaya,26
+3076,Nicklas Bendtner,77
+3077,Nicolás Domingo,65
+3078,Jorge Ortiz,66
+3079,Claudiu Keserü,75
+3080,Olivier Veigneau,53
+3081,Cameron Jerome,70
+3082,Taye Taiwo,76
+3083,Michu,67
+3084,Tim Sparv,42
+3085,Adam Federici,41
+3086,Tim Hoogland,61
+3087,Juninho,83
+3088,Robert Almer,17
+3089,Behrang Safari,55
+3090,John Ruddy,43
+3091,Sébastien Pocognoli,58
+3092,Phil Bardsley,56
+3093,Roland Lamah,53
+3094,Pablo Barrientos,75
+3095,Ilya Abaev,18
+3096,Artur,70
+3097,Remko Pasveer,28
+3098,Zapater,67
+3099,Ben Watson,78
+3100,Lanzarote,78
+3101,Raffaele Palladino,75
+3102,Léo Matos,60
+3103,Luis Gonzalo Bustamante,53
+3104,Ken Reichel,59
+3105,Mark González,73
+3106,Scott Carson,20
+3107,Niko Kranjcar,68
+3108,Benoît Assou-Ekotto,57
+3109,Christophe Berra,31
+3110,Samuel Holmén,60
+3111,Thomas Buffel,73
+3112,Cristian Sapunaru,68
+3113,Tomáš Sivok,53
+3114,Markel Bergara,59
+3115,Lee Chung Yong,63
+3116,Manuel Pasqual,50
+3117,Jorge Molina,80
+3118,Diego Barreto,19
+3119,Arnold Mvuemba,63
+3120,Chad Marshall,60
+3121,Peter Utaka,68
+3122,Jérémy Perbet,69
+3123,Daryl Murphy,77
+3124,Cristian Molinaro,63
+3125,Artem Rebrov,22
+3126,Vladimir Bystrov,64
+3127,Vitolo,69
+3128,Momo,79
+3129,Juli,66
+3130,Egemen Korkmaz,30
+3131,Javier Gandolfi,58
+3132,Germán Denis,80
+3133,Maximiliano Velázquez,60
+3134,Rodrigo Braña,50
+3135,Aitor Sanz,58
+3136,Verza,83
+3137,Edú,69
+3138,Alex Baptiste,34
+3139,Darío Verón,61
+3140,Yoshito Okubo,82
+3141,Yasuhito Endo,82
+3142,Santiago Silva,75
+3143,Jason Shackell,31
+3144,Walter Erviti,56
+3145,Roberto Vitiello,34
+3146,Mounir El Hamdaoui,75
+3147,Yann Jouffre,72
+3148,Alessandro Rosina,68
+3149,Michaël Ciani,25
+3150,Rubinho,20
+3151,Hakan Arikan,12
+3152,Laurent Pionnier,16
+3153,Charles Itandje,16
+3154,Sascha Riether,57
+3155,Reto Ziegler,68
+3156,Tom Starke,21
+3157,Jean-François Gillet,23
+3158,Claudio Terzi,61
+3159,Tomasz Kuszczak,22
+3160,Craig Gordon,22
+3161,Rolando Bianchi,75
+3162,Florent Balmont,60
+3163,Boaz Myhill,42
+3164,Stefano Mauri,74
+3165,Nicolas Seube,49
+3166,Markus Rosenberg,71
+3167,Alexander Farnerud,64
+3168,Rafael van der Vaart,77
+3169,Kyle Beckerman,69
+3170,Ashley Cole,58
+3171,Shunsuke Nakamura,83
+3172,Rafael Márquez,63
+3173,Roque Santa Cruz,62
+3174,David Pizarro,78
+3175,Custódio,70
+3176,Braga,74
+3177,Alexander Manninger,17
+3178,Benjamin Nivet,76
+3179,Giampiero Pinzi,67
+3180,Omar Kharbin,65
+3181,Oleksandr Karavaiev,55
+3182,David Neres,65
+3183,Wesley Lautoa,49
+3184,Douglas Armeira,58
+3185,Cengiz Ünder,64
+3186,Federico Chiesa,61
+3187,Nicolás Gorosito,53
+3188,Assis,51
+3189,Henry Onyekuru,55
+3190,Rômulo Calsede,75
+3191,Amath Ndiaye Diedhiou,46
+3192,Junya Ito,57
+3193,Chidozie Awaziem,40
+3194,Timothy Fosu-Mensah,48
+3195,Mijo Caktaš,78
+3196,Bernard Berisha,63
+3197,Ruslan Malinovskyi,66
+3198,Tammy Abraham,72
+3199,Adam Ounas,60
+3200,Michael Santos,68
+3201,Gojko Cimirot,60
+3202,João Bruiñeira,21
+3203,Nilsito Vilela,65
+3204,Leandro Vivenço,71
+3205,Adrián Burnabão,75
+3206,Jessé Ledeiro,74
+3207,Jairinhazo,72
+3208,Leordinho Paes,64
+3209,Alessinito,63
+3210,Porphirinho,65
+3211,Marcos Paneira,51
+3212,Pimentiscinho,54
+3213,Timo Triano,59
+3214,Rubem Esteiro,71
+3215,Otávinho Vila,61
+3216,Miltisco Paulino,53
+3217,Denaldo Carneiro,39
+3218,Ailtio Coelho,61
+3219,Pombaxinho,71
+3220,Sanaldo Caiado,42
+3221,Silvosinho,63
+3222,Mauro Cildinho,50
+3223,Jeff Meirson,72
+3224,Joshuando Sá,53
+3225,Jonas Damasto,38
+3226,Walter Silvieiro,76
+3227,Cristian Lodeira,65
+3228,Thiago Alminxa,55
+3229,Santi da Bruma,71
+3230,Michel Cruceiro,74
+3231,Mauro Riboas,69
+3232,Carleto Costinha,77
+3233,Juliano Mascarinhas,58
+3234,Clayton Fildeiras,77
+3235,Estevão Candeira,49
+3236,Vanderlei Cõembra,45
+3237,Wellington Sabrão,71
+3238,Youssef Ait Bennasser,42
+3239,Stefano Sensi,74
+3240,Alexander Barboza,41
+3241,Jacek Góralski,43
+3242,Jorge,43
+3243,Mbilla Etame,65
+3244,Maksym Malyshev,44
+3245,Costinha,72
+3246,Gil Dias,53
+3247,Amilton,62
+3248,Karim Onisiwo,58
+3249,Borja Valle,65
+3250,Óscar Estupiñán,63
+3251,Jhon Murillo,66
+3252,Florian Grillitsch,50
+3253,Ricardo Lopes,68
+3254,Daniel Buitrago,56
+3255,Diego Viera,45
+3256,Marko Dmitrovic,9
+3257,Álex Remiro,24
+3258,Diego González,42
+3259,Axel Sjöberg,38
+3260,Baldomero Perlaza,48
+3261,Rubén Duarte,40
+3262,Marcus Coco,59
+3263,Cristian Omar Espinoza,54
+3264,Uche Agbo,39
+3265,Jordan Morris,71
+3266,Jean-Kévin Augustin,68
+3267,Alexandr Golovin,52
+3268,Guido Rodríguez,53
+3269,Ahmet Oguz,55
+3270,Ellyes Skhiri,58
+3271,Castro,65
+3272,Kevin Lasagna,65
+3273,Bustinza,33
+3274,Goran Caušic,68
+3275,Yann Bodiger,70
+3276,Walter Montoya,51
+3277,Jérémie Boga,55
+3278,Fábio Martins,67
+3279,Hiroki Yamada,68
+3280,Germán Lanaro,40
+3281,Derrick Luckassen,46
+3282,Ivaylo Chochev,59
+3283,Crislan,63
+3284,Jonathan Rodríguez,74
+3285,Robert Bauer,44
+3286,Orkan Çinar,57
+3287,Wout Weghorst,65
+3288,Munir,25
+3289,Edoardo Goldaniga,34
+3290,Zé Manuel,69
+3291,Numan Çürüksu,36
+3292,Ivan Mocinic,47
+3293,Elvis Kokalovic,52
+3294,Marvelous Nakamba,38
+3295,Manabu Saito,60
+3296,Rolando Aarons,59
+3297,Timothy Castagne,27
+3298,Unai López,46
+3299,Lukas Klostermann,26
+3300,Elmir Nabiullin,39
+3301,Donis Avdijaj,62
+3302,Carlos Gruezo,49
+3303,Nahuel Leiva,59
+3304,Nano,69
+3305,Donny van de Beek,55
+3306,Estéfano Arango,65
+3307,Alexis Pérez,40
+3308,Abdelhak Nouri,65
+3309,Dario Rodríguez,63
+3310,Ezequiel Ponce,66
+3311,Gastón Silva,55
+3312,Renato Tapia,61
+3313,Demarai Gray,58
+3314,Daniel Hernández,53
+3315,Federico Ricci,67
+3316,Jonatan Cristaldo,65
+3317,Norbert Gyömbér,23
+3318,Gabriel Castellón,24
+3319,Matías Pisano,49
+3320,David Costas,50
+3321,Roger Martínez,68
+3322,Thomas Didillon,22
+3323,Andrés Mosquera,31
+3324,Yony González,50
+3325,Diego Galo,43
+3326,Rober Ibáñez,63
+3327,Claudio Aquino,67
+3328,Derley,73
+3329,Pablo Galdames,59
+3330,Rafa Soares,34
+3331,Alejandro Silva,49
+3332,Facundo Sánchez,62
+3333,César Fuentes,49
+3334,Yuya Kubo,67
+3335,Andre Blake,19
+3336,Bruno Henrique,62
+3337,Emanuele Suagher,30
+3338,Hernán Menosse,55
+3339,Léo Dubois,46
+3340,Daley Sinkgraven,56
+3341,Danilo,42
+3342,Joost van Aken,44
+3343,André Claro,73
+3344,Lorenzo Pasciuti,47
+3345,Nery Domínguez,55
+3346,Gabriel Vargas,71
+3347,Rafael Delgado,63
+3348,Renato González,50
+3349,Matteo Mancosu,68
+3350,Unai Garcia,42
+3351,Matt Miazga,31
+3352,Lucas Evangelista,57
+3353,Marcelo Meli,49
+3354,Jonathan Silva,55
+3355,Lucas Albertengo,69
+3356,Lucas Melano,56
+3357,Francisco Cerro,53
+3358,Washington Camacho,64
+3359,Gonzalo Verón,61
+3360,Martín Rolle,63
+3361,Diego Braghieri,48
+3362,Bruno Bianchi,21
+3363,Pablo Alvarado,40
+3364,Martín Benítez,66
+3365,Claudio Riaño,70
+3366,Óscar Opazo,51
+3367,Martín Rodríguez,40
+3368,Rodrigo Gómez,67
+3369,Marlon Piedrahita,69
+3370,Román Torres,46
+3371,Jorge Aguirre,60
+3372,Leonardo Valencia,60
+3373,Felipe Aguilar,39
+3374,Antony Silva,25
+3375,Didier Moreno,37
+3376,Ayron del Valle,78
+3377,Yeison Gordillo,39
+3378,Francisco Meza,33
+3379,Jonathan Lopera,65
+3380,Aketxe,67
+3381,Alexander Fransson,47
+3382,Paddy McNair,43
+3383,Fausto Tienza,48
+3384,Somália,62
+3385,Albizua,35
+3386,Kim Jin Su,55
+3387,Tozé,81
+3388,DeAndre Yedlin,38
+3389,Ludwig Augustinsson,62
+3390,Davie Selke,59
+3391,Maxime Chanot,44
+3392,Tiago Silva,70
+3393,Alberto Martín,58
+3394,Kenan Karaman,56
+3395,Brandon Mechele,35
+3396,Philipp Max,41
+3397,Mohamed Abdul Shafy,43
+3398,Kevin Möhwald,46
+3399,Pere Pons,45
+3400,Carlos Hernández,39
+3401,Tom Lawrence,65
+3402,Ibrahim Amadou,43
+3403,Pavel Mogilevets,52
+3404,Elsinho,47
+3405,Wanderson,54
+3406,José Mari,53
+3407,David Accam,64
+3408,Nicolás Martínez,68
+3409,Haitam Aleesami,41
+3410,Fouad Chafik,44
+3411,Albert Rusnák,54
+3412,Rui Silva,30
+3413,Filippo Falco,57
+3414,Cristian Pellerano,65
+3415,Hélder Lopes,40
+3416,Hany Mukhtar,60
+3417,Joris van Overeem,41
+3418,Maciej Gajos,60
+3419,Christian Günter,44
+3420,Siebe Schrijvers,63
+3421,Joey Pelupessy,50
+3422,Milan Vilotic,58
+3423,Branimir Hrgota,59
+3424,Nabil Ghilas,78
+3425,Ádám Gyurcsó,67
+3426,Lorenzo Lollo,59
+3427,Jehad Al Hussien,73
+3428,Fahad Al Muwallad,67
+3429,Harrison Henao,70
+3430,Óscar Plano,66
+3431,Peter Ankersen,42
+3432,Andrew Wooten,69
+3433,Ibrahima Cissé,46
+3434,Bryan Cristante,58
+3435,Patrick,45
+3436,Ju Se Jong,62
+3437,Leandro Fernández,72
+3438,Tom Rogic,56
+3439,Alexander González,62
+3440,Ryan Fraser,56
+3441,Syam Ben Youssef,36
+3442,Giannis Skondras,61
+3443,Emil Krafth,54
+3444,Kenneth Omeruo,35
+3445,Robin Olsen,30
+3446,Marcus Rohdén,66
+3447,Slobodan Medojevic,50
+3448,Alexis Henríquez,49
+3449,Stef Peeters,73
+3450,Kevin Stewart,44
+3451,Jack Grealish,58
+3452,Nir Bitton,46
+3453,Iván López,49
+3454,André Biyogo Poko,53
+3455,Eric Mathoho,37
+3456,Edgar Salli,58
+3457,Alessio Cragno,31
+3458,Lenny Nangis,63
+3459,André Sousa,59
+3460,Luca Ceppitelli,34
+3461,Luca Antei,47
+3462,Niclas Füllkrug,71
+3463,Djaniny,67
+3464,Gonzalo Espinoza,55
+3465,Guillaume Hubert,16
+3466,Filip Novák,42
+3467,Oscar Lewicki,48
+3468,Rachid Alioui,55
+3469,Dieumerci Ndongala,54
+3470,Clerc,44
+3471,Rafael Baca,58
+3472,Renato Ibarra,54
+3473,Philipp Hosiner,66
+3474,Luis Advíncula,64
+3475,Stefano Marzo,45
+3476,Gervasio Núñez,71
+3477,Tomer Hemed,83
+3478,Edgar Badía,30
+3479,Stelios Kitsiou,41
+3480,Tommy Smith,41
+3481,Leonardo Blanchard,30
+3482,Nuno Henrique,31
+3483,David Pavelka,68
+3484,Jamaal Lascelles,19
+3485,Ismaël Diomandé,42
+3486,Britt Assombalonga,65
+3487,Luccas Claro,44
+3488,Héctor,35
+3489,Yun Il Lok,51
+3490,Thulani Serero,49
+3491,Alexander Miloševic,59
+3492,Jean-Christophe Bahebeck,65
+3493,Tom Carroll,56
+3494,Danny da Costa,40
+3495,Martos,36
+3496,Hernán,45
+3497,Aden Flint,38
+3498,Stuart Armstrong,52
+3499,Justin Meram,61
+3500,Ergys Kace,63
+3501,Moses Odubajo,51
+3502,Alfredo Morales,45
+3503,José Luis Fernández,55
+3504,Luis Carlos Arias,66
+3505,Nicolas Benezet,63
+3506,Alfred Gomis,23
+3507,Alexander Søderlund,65
+3508,Simon Thern,53
+3509,Juan Sánchez Miño,66
+3510,Andreas Cornelius,69
+3511,Attila Fiola,53
+3512,Marco Capuano,41
+3513,Uffe Bech,48
+3514,Sami,53
+3515,Cristiano Biraghi,48
+3516,Mohammed Abu,50
+3517,Frederik Sørensen,40
+3518,Robert Žulj,55
+3519,Christian Gytkjær,79
+3520,Frederik Rønnow,17
+3521,Kasper Kusk,59
+3522,Ledian Memushaj,66
+3523,Errasti,53
+3524,Mickaël Le Bihan,49
+3525,Taras Burlak,60
+3526,Rafael Martins,74
+3527,Benjamin Corgnet,68
+3528,Deniz Yilmaz,73
+3529,Mihai Radut,67
+3530,Bruno Uvini,43
+3531,Isaac Cuenca,70
+3532,Christopher Schindler,39
+3533,Camilo,73
+3534,Luis Pedro Cavanda,50
+3535,Mike te Wierik,37
+3536,Adama Soumaoro,40
+3537,Michael Esser,23
+3538,Nicolai Boilesen,49
+3539,Miloš Kosanovic,70
+3540,Ahmet Ilhan Özek,58
+3541,Léo Lacroix,55
+3542,Lars Unnerstall,16
+3543,Romain Métanire,52
+3544,Balázs Megyeri,24
+3545,Taulant Xhaka,60
+3546,Michael Gregoritsch,62
+3547,Matías Aguirregaray,58
+3548,Pablo Chavarría,63
+3549,Mathieu Duhamel,74
+3550,Marc Rzatkowski,49
+3551,Manuel Riemann,34
+3552,Anthony Losilla,49
+3553,Amir Abrashi,54
+3554,Ji Dong Won,66
+3555,Álex Fernández,69
+3556,Mehmet Batdal,65
+3557,Dennis Appiah,47
+3558,Sergey Tkachev,70
+3559,Isaac Cofie,61
+3560,Uroš Cosic,30
+3561,Raoul Cedric Loé,44
+3562,Carlos Ruiz,53
+3563,Johan Larsson,58
+3564,George Thorne,50
+3565,Bryan Oviedo,56
+3566,Greg Cunningham,44
+3567,Marcel Büchel,56
+3568,Damian Dabrowski,51
+3569,Alex,68
+3570,Yann-Erik de Lanlay,50
+3571,Pajtim Kasami,63
+3572,Juninho,68
+3573,Dejan Lazarevic,61
+3574,Nuno Reis,58
+3575,Oscar Boniek García,71
+3576,Baena,55
+3577,Mathew Leckie,69
+3578,Rizvan Utsiev,57
+3579,Cristian Erbes,55
+3580,Ryan Mendes,65
+3581,Diego Contento,52
+3582,Fuentes,35
+3583,Rafal Gikiewicz,19
+3584,May Mahlangu,41
+3585,Dorian Lévêque,46
+3586,Flavio Paixão,71
+3587,Adam Forshaw,66
+3588,Portillo,49
+3589,Izet Hajrovic,75
+3590,Juan Domínguez,70
+3591,Cauê,49
+3592,Žarko Tomaševic,54
+3593,Vasco Regini,43
+3594,Marcel Correia,37
+3595,Diego Novaretti,30
+3596,Douglas,59
+3597,Andile Jali,67
+3598,Fabian Giefer,21
+3599,Aleksandar Ignjovski,48
+3600,Ben Marshall,72
+3601,Iván Pillud,70
+3602,Bram Nuytinck,47
+3603,Matthieu Saunier,55
+3604,Mateusz Klich,74
+3605,Mustapha Diallo,48
+3606,Fabián Rinaudo,52
+3607,Mauro Formica,66
+3608,Mads Fenger,33
+3609,Rene Krhin,58
+3610,Takeshi Aoki,62
+3611,Salman Al Faraj,61
+3612,Cyriac,69
+3613,Rhayner,54
+3614,Adam Smith,48
+3615,Callum McManaman,64
+3616,Eugenio Lamanna,24
+3617,Diego Álvarez,56
+3618,Danijel Aleksic,70
+3619,Ike Opara,49
+3620,Yassine El Ghanassy,65
+3621,Nenad Krsticic,55
+3622,Daniel Opare,47
+3623,Bernard Parker,73
+3624,Enock Kofi Adu,56
+3625,Soni Mustivar,46
+3626,Guedes,83
+3627,Stoppila Sunzu,46
+3628,Mamadou Samassa,18
+3629,Ali Gadzhibekov,53
+3630,Marcelo Toscano,74
+3631,Samuel Armenteros,68
+3632,Ramalho,41
+3633,Lillo,59
+3634,Davy Claude Angan,64
+3635,Víctor Vázquez,72
+3636,Aridane,31
+3637,Candeias,65
+3638,Junior Hoilett,68
+3639,Artur Sobiech,71
+3640,Junior Stanislas,61
+3641,Cristian Pasquato,72
+3642,Lorenzo Ariaudo,30
+3643,Florian Jungwirth,37
+3644,Jens Hegeler,79
+3645,Samuel Souprayen,44
+3646,Néstor Calderón,77
+3647,Francesco Renzetti,46
+3648,Libor Kozák,76
+3649,Michael Morrison,36
+3650,Johannes Flum,57
+3651,Semir Štilic,60
+3652,Marvin Martin,61
+3653,Bruno Ecuélé Manga,46
+3654,Lex Immers,71
+3655,Adama Valentin Diomande,69
+3656,Artem Kravets,59
+3657,Ondrej Celustka,40
+3658,Edwin Hernández,54
+3659,Sergey Pesyakov,22
+3660,David Meyler,47
+3661,Jiloan Hamad,63
+3662,Carlos Peña,62
+3663,Israel Jiménez,61
+3664,Ashley Barnes,72
+3665,Tsepo Masilela,46
+3666,Güray Vural,57
+3667,Tamás Kádár,35
+3668,Nicolás Peric,24
+3669,Juan Cala,46
+3670,Salustiano Candia,55
+3671,Tommy Smith,34
+3672,Rodolfo Cota,25
+3673,Denis Odoi,49
+3674,Vasco Fernandes,38
+3675,Panagiotis Glykos,24
+3676,Chris Martin,70
+3677,Nicolás Sánchez,56
+3678,Michiel Kramer,63
+3679,Ádám Bogdán,18
+3680,Julien Cétout,41
+3681,Luis Ardente,66
+3682,Sergio Tejera,50
+3683,Lasse Vibe,65
+3684,Vincent Nogueira,63
+3685,Mohammed Abdellaoue,75
+3686,Jean-Armel Kana-Biyik,45
+3687,Ima Faneva Andriatsima,65
+3688,Avdija Vršajevic,55
+3689,Jonathan Hogg,41
+3690,James Henry,69
+3691,Davide Di Gennaro,68
+3692,Steeven Langil,44
+3693,Guy-Roland Ndy Assembe,15
+3694,Casado,40
+3695,David González,15
+3696,Jan Morávek,69
+3697,Krisztián Németh,70
+3698,Fedor Kudryashov,46
+3699,Rincón,29
+3700,Aly Cissokho,48
+3701,Rasmus Bengtsson,46
+3702,Damien Marcq,33
+3703,Carlão,38
+3704,Ceyhun Gülselam,36
+3705,Lulinha,66
+3706,Ragnar Sigurðsson,65
+3707,Zoltán Stieber,65
+3708,Maurice Edu,69
+3709,Miguel Samudio,54
+3710,Bakary Sako,70
+3711,George Boyd,71
+3712,Taras Mykhalyk,47
+3713,Alex Pearce,32
+3714,Gilles Cioni,50
+3715,Wout Brama,63
+3716,Scott Arfield,62
+3717,Nenê,78
+3718,Seth De Witte,73
+3719,Romain Brégerie,65
+3720,Mehmet Güven,58
+3721,Mario Vrancic,55
+3722,Ángel,69
+3723,Carlos Felipe Rodríguez,18
+3724,Timothy Derijck,71
+3725,Manuel da Costa,44
+3726,Suso Santana,66
+3727,Gustav Svensson,45
+3728,Ruben Yttergård Jenssen,51
+3729,Nuno Coelho,46
+3730,Patrick Ebert,59
+3731,Tobias Werner,56
+3732,Mark Milligan,80
+3733,Hugo Droguett,64
+3734,Máyer Candelo,60
+3735,McDonald Mariga,50
+3736,Sebastian Boenisch,49
+3737,Marcin Robak,84
+3738,Zlatan Ljubijankic,59
+3739,Thomas Matton,63
+3740,Samir Ujkani,22
+3741,Sébastien Siani,84
+3742,Constant Djakpa,56
+3743,Pablo Barrera,67
+3744,Ramón Fernández,70
+3745,Adrian Mariappa,44
+3746,Lee Tomlin,71
+3747,Ramon Leeuwin,65
+3748,Matteo Ardemagni,73
+3749,Joey van den Berg,67
+3750,Matías Fritzler,51
+3751,Gonzalo Bergessio,68
+3752,Bilal Kisa,74
+3753,Luso,64
+3754,Carpio,47
+3755,Toquero,66
+3756,Pablo Granoche,75
+3757,Miku,68
+3758,Hugo Vieira,60
+3759,Sam Hutchinson,55
+3760,Andreas Ulmer,44
+3761,Aldo Leão Ramírez,69
+3762,Carmona,80
+3763,Issiar Dia,62
+3764,Marcelo Oliveira,66
+3765,Nsue,49
+3766,Adem Büyük,59
+3767,Jorge Torres Nilo,63
+3768,Oscar Ustari,18
+3769,Gökhan Degirmenci,15
+3770,Marc Pugh,64
+3771,Alexandr Bukharov,69
+3772,Molinero,49
+3773,Cristian Villagra,56
+3774,Stephen Ward,62
+3775,Édouard Duplan,62
+3776,Edinho,76
+3777,Steven Fletcher,73
+3778,Lee Wallace,58
+3779,Chris Wondolowski,72
+3780,Christophe Mandanne,67
+3781,Jonny Hayes,48
+3782,Matt Jarvis,66
+3783,Franck Berrier,72
+3784,Abou Diaby,74
+3785,David Jones,58
+3786,Mark Bunn,44
+3787,Florian Klein,69
+3788,Sebastián Viera,24
+3789,Steven Taylor,46
+3790,Kasper Hämäläinen,52
+3791,Marco Schneuwly,62
+3792,Salva Sevilla,71
+3793,Pablo Álvarez,49
+3794,Zé Castro,45
+3795,Uwe Hünemeier,56
+3796,Djamel Mesbah,60
+3797,Moritz Stoppelkamp,59
+3798,Pedro López,58
+3799,Mauricio Molina,78
+3800,Bartosz Bialkowski,17
+3801,Valerica Gaman,69
+3802,Alejandro Faurlín,49
+3803,Lucas Licht,83
+3804,Magnus Wolff Eikrem,61
+3805,Darío Cvitanich,76
+3806,Dean Marney,56
+3807,Bradley Johnson,72
+3808,Erdal Kiliçaslan,71
+3809,Espen Ruud,62
+3810,Dmitriy Torbinskiy,71
+3811,Manu Del Moral,80
+3812,Iván Alonso,72
+3813,Susaeta,75
+3814,Seoane,53
+3815,Dorca,51
+3816,Bruno Saltor,45
+3817,Leandro Greco,58
+3818,Sercan Yildirim,72
+3819,Bekir Irtegün,52
+3820,Serdar Kurtulus,40
+3821,Mariano Pavone,74
+3822,Diego Colotto,55
+3823,Jonathan Bottinelli,41
+3824,Javi Guerra,80
+3825,Alan Hutton,49
+3826,David Nugent,82
+3827,Omar Pérez,63
+3828,Almen Abdi,66
+3829,Toño,24
+3830,Gonçalo Brandão,55
+3831,Brett Holman,66
+3832,Kevin Stuhr-Ellegaard,14
+3833,Michael Turner,52
+3834,Jan-Ingwer Callsen-Bracker,65
+3835,Giulio Migliaccio,44
+3836,Killian Overmeire,48
+3837,Michael Liendl,82
+3838,Steve Sidwell,68
+3839,Paul McShane,41
+3840,Merter Yüce,30
+3841,Giandomenico Mesto,52
+3842,Hugo Campagnaro,38
+3843,Christian Schulz,61
+3844,Fabio Coltorti,14
+3845,Christian Bermúdez,66
+3846,Thibault Giresse,77
+3847,David Navarro,48
+3848,Duda,72
+3849,Pelegrín,43
+3850,Hamit Altintop,71
+3851,Fahid Ben Khalfallah,69
+3852,Davide Brivio,45
+3853,Gianluca Pegolo,13
+3854,Peter Niemeyer,57
+3855,Alou Diarra,63
+3856,Alaeddine Yahia,51
+3857,Angelo Palombo,66
+3858,Cristian Ledesma,80
+3859,Tim Cahill,67
+3860,Julián Speroni,22
+3861,Olivier Deschacht,36
+3862,Abdou Kader Mangane,55
+3863,Tobias Hysén,62
+3864,Nils-Eric Johansson,36
+3865,Benoît Pedretti,75
+3866,Lionel Mathis,46
+3867,Johan Wiland,15
+3868,Andreas Isaksson,25
+3869,Rickie Lambert,96
+3870,Scott Parker,71
+3871,Gustavo Blanco Leschuk,56
+3872,Vinícius,42
+3873,Matej Mitrovic,60
+3874,Jirí Pavlenka,18
+3875,Jaromír Zmrhal,53
+3876,Jan Sýkora,53
+3877,Túlio Sandoiro,70
+3878,Marlion Rolim,55
+3879,Martin Cordeia,75
+3880,Marlion Simões,55
+3881,Enzo Merques,62
+3882,Alam Lindeiro,59
+3883,Mateo García,54
+3884,Álvaro Jiménez,49
+3885,Lazar Rosic,47
+3886,Yevhen Shakhov,48
+3887,David Terans,57
+3888,Ramón Folch,57
+3889,Perdigão,61
+3890,Jony Reitosa,36
+3891,Vágner Corraldo,55
+3892,Eduardo Fonseira,16
+3893,Nathael Silbeira,21
+3894,Ramadan Sobhi,65
+3895,Amr Warda,63
+3896,Gaku Shibasaki,71
+3897,Gen Shoji,32
+3898,Yuki Kobayashi,58
+3899,Kosei Shibasaki,48
+3900,Takuma Asano,63
+3901,Sebastián Bertoli,72
+3902,Carlos Ponck,49
+3903,Luka Jovic,60
+3904,Dimitris Chatziisaias,40
+3905,Santiago Ascacibar,48
+3906,Collins Fai,34
+3907,Marko Grujic,57
+3908,Amine Harit,52
+3909,Giorgi Aburjania,49
+3910,Kim Dong Joon,18
+3911,Carlos Muñoz,80
+3912,Denis Tkachuk,64
+3913,Jaime Carreño,62
+3914,Arnold Issoko,59
+3915,Hugo Rubiães,53
+3916,Nascimentardo,74
+3917,Paulao Junqueiras,71
+3918,Paulolettinho,45
+3919,Tiago Pombeira,69
+3920,Vieiraldo Junior,40
+3921,Luis Couprins,62
+3922,Sandelas Júnior,54
+3923,Natinho Mestres,52
+3924,Barbosaldinho,48
+3925,Alexandre Frandeira,43
+3926,Nuno Padrenda,42
+3927,Tony Muttinho,61
+3928,Tramontinaldo,63
+3929,Edsinho Torres,70
+3930,Wiliam Santinho,23
+3931,André Milazisco,23
+3932,Josué da Feira,67
+3933,Eltildo Bessa,59
+3934,Heltinho Melo,71
+3935,Adeilson Gesser,66
+3936,Alex das Freitas,60
+3937,Heitor Gesse,56
+3938,Assane Dioussé,56
+3939,Saif Al Hashan,60
+3940,Jordi Calavera,51
+3941,Milan Gajic,47
+3942,Rade Krunic,58
+3943,Tiago Mesquita,41
+3944,Marco Baixinho,41
+3945,Campillo,68
+3946,Alexandr Zhirov,42
+3947,Denis Zakaria,39
+3948,Alejandro Camargo,57
+3949,Robert Herrera,59
+3950,Sakib Aytaç,55
+3951,Zeki Yildirim,48
+3952,Dion Cools,45
+3953,Bruno Valdez,48
+3954,Robin Lod,61
+3955,Almamy Touré,40
+3956,Lucas Tagliapietra,36
+3957,André Franck Zambo Anguissa,59
+3958,Ignacio Malcorra,70
+3959,Nik Omladic,61
+3960,Takumi Minamino,59
+3961,Ricardo Valente,60
+3962,Roger Assalé,54
+3963,Jesús Gallardo,65
+3964,Benjamin Verbic,63
+3965,Cecilio Domínguez,71
+3966,Marlos Moreno,51
+3967,Leonardo Suárez,62
+3968,Adama Traoré,53
+3969,Rachid Aït Atmane,41
+3970,Mimoun Mahi,50
+3971,Mamadou Sylla,70
+3972,Thabo Rakhale,55
+3973,Kevin Diks,42
+3974,Gian Marco Ferrari,28
+3975,Arnaud Lusamba,44
+3976,Rafael Defendi,14
+3977,Andrézinho,60
+3978,Philipe Sampaio,42
+3979,Ramy Bensebaini,43
+3980,Carlos Henao,78
+3981,Erick Aguirre,55
+3982,Luís Aurélio,53
+3983,Agustín Farías,59
+3984,Juan Muñoz,67
+3985,Adam Marušic,58
+3986,Andreas Bouchalakis,61
+3987,Anastasios Avlonitis,59
+3988,Ivan Kovacec,66
+3989,Yacine Bammou,67
+3990,Anderson Correia,41
+3991,Gideon Jung,54
+3992,Robin Gosens,52
+3993,Sergio Rochet,24
+3994,Timon Wellenreuther,23
+3995,Octavio Rivero,73
+3996,Mata,69
+3997,Issa Sarr,42
+3998,Emre Tasdemir,50
+3999,Ümit Kurt,41
+4000,Famara Diedhiou,75
+4001,Brian Fernández,52
+4002,Kévin Vandendriessche,52
+4003,Gustavo Toledo,37
+4004,Cristian Penilla,63
+4005,Ángel Mena,69
+4006,Jordan Silva,45
+4007,Jown Cardona,55
+4008,Sebastian Griesbeck,46
+4009,Jérôme Prior,14
+4010,Harry Winks,51
+4011,Paul Anton,49
+4012,Hernán Fredes,42
+4013,Josh Onomah,42
+4014,Nathan,58
+4015,Lucas Boyé,66
+4016,Filip Mladenovic,43
+4017,Vigaray,45
+4018,Luciano Acosta,54
+4019,Víctor Cabrera,44
+4020,Dénes Dibusz,19
+4021,Kazuki Nagasawa,49
+4022,Sverrir Ingi Ingason,50
+4023,Johan Arango,72
+4024,Michael Barrios,53
+4025,Carlos Salom,70
+4026,Deiver Machado,57
+4027,Alex Castro,36
+4028,Micheal Azira,48
+4029,Luismi,38
+4030,Florent Hadergjonaj,44
+4031,Alberto Grassi,64
+4032,Bongani Zungu,69
+4033,Roman Bezjak,64
+4034,Jeremy Bokila,66
+4035,Joel Pohjanpalo,59
+4036,Hans Hateboer,47
+4037,José Mauri,62
+4038,Embarba,55
+4039,Alex Soares,48
+4040,Joaquín Arzura,48
+4041,Samuel Gigot,36
+4042,Jherson Vergara,19
+4043,Sergio Vittor,62
+4044,Sebastián Vegas,36
+4045,Helibelton Palacios,39
+4046,Ambroise Oyongo,35
+4047,Federico Vega,44
+4048,Yosuke Kashiwagi,67
+4049,Lukas Lerager,48
+4050,Jubal,48
+4051,Javier Abella,55
+4052,Wilde-Donald Guerrier,59
+4053,Álex Moreno,70
+4054,Mame Thiam,61
+4055,Álvaro García,55
+4056,Tornike Okriashvili,47
+4057,Emmanuel García,58
+4058,Riccardo Gagliolo,38
+4059,Leandro González,60
+4060,Bartosz Kapustka,55
+4061,Carlos Strandberg,57
+4062,Filipe Ferreira,53
+4063,Bartlomiej Dragowski,21
+4064,Bruno Petkovic,81
+4065,Scott Hogan,65
+4066,Carlos Auzqui,59
+4067,Cristian Menéndez,72
+4068,Fernando Márquez,68
+4069,Federico Lértora,58
+4070,Fernando Zuqui,51
+4071,Emanuel Insúa,41
+4072,Daniel Rosero Valencia,49
+4073,Jorge Luna,75
+4074,Diego Rodríguez,73
+4075,Alfonso Parot,49
+4076,Marcos Bolados,56
+4077,Lorenzo Reyes,50
+4078,Dagoberto Currimilla,51
+4079,Wilder Guisao,69
+4080,Johan Fuentes,41
+4081,Luis Páez,76
+4082,Carlos Arboleda,41
+4083,Wilson Morelo,76
+4084,Felipe Campos,40
+4085,Sebastián Martínez,45
+4086,Nicolás Maturana,41
+4087,Albert Acevedo,42
+4088,Danovis Banguero,47
+4089,Andrés Andrade,76
+4090,Rafael Carrascal,57
+4091,Michael Rangel,65
+4092,Mathías Riquero,57
+4093,Germán Cano,70
+4094,Cleider Alzáte,64
+4095,John Hernández,59
+4096,Dairon Mosquera,39
+4097,Matheus Uribe,68
+4098,Germán Mera,39
+4099,Cristian Higuita,54
+4100,Fáiner Torijano,43
+4101,Yerson Candelo,66
+4102,Diego Rodríguez,56
+4103,Federico Di Francesco,69
+4104,Iver Fossum,42
+4105,Juan Cornejo,30
+4106,Martín Nervo,52
+4107,João Pedro,55
+4108,Raúl López,68
+4109,Raul Rusescu,74
+4110,William Troost-Ekong,40
+4111,Kehinde Fatai,73
+4112,Ismael,56
+4113,Lee Kwang Sun,34
+4114,Santiago Montoya,65
+4115,Hernán Grana,56
+4116,Kellyn Acosta,45
+4117,Pape Sané,67
+4118,Rober Pier,39
+4119,Abdul Fatah Aseri,54
+4120,Kensuke Nagai,65
+4121,Corentin Fiore,31
+4122,Tyrone Mings,32
+4123,Frédéric Mendy,71
+4124,Steven Moreira,35
+4125,Pedro Franco,64
+4126,Hwang Ui Jo,66
+4127,Tobias Figueiredo,36
+4128,Augusto Solari,58
+4129,Nacho,40
+4130,Mario Maloca,52
+4131,Borja López,45
+4132,Janik Haberer,59
+4133,Süleyman Koç,56
+4134,Tiago Rodrigues,76
+4135,Federico Barba,35
+4136,Alexander Callens,43
+4137,Aaron Olanare,68
+4138,Esteban Saveljich,43
+4139,Ariel Rojas,66
+4140,Valentino Lazaro,67
+4141,Paulinho,47
+4142,Julio Tavares,68
+4143,Salem Al Dawsari,62
+4144,Sokol Cikalleshi,55
+4145,Jordan Ikoko,49
+4146,Dimitris Diamantakos,65
+4147,Salman Muwashar,67
+4148,Mohammed Jahfali,36
+4149,Mikel Agu,46
+4150,Yassine Bounou,24
+4151,Jakob Busk,12
+4152,Quini,58
+4153,Bryan Rabello,70
+4154,Birama Touré,53
+4155,Hussain Al Moqahwi,49
+4156,Nicolas Verdier,64
+4157,Philipp Ziereis,33
+4158,Ibrahim Ghaleb,69
+4159,Omar Ibrahim Othman,33
+4160,Robin Himmelmann,20
+4161,Alfie Mawson,32
+4162,Fabian Holland,49
+4163,Mariusz Stepinski,62
+4164,Dimitrios Kourbelis,57
+4165,Samuele Longo,64
+4166,Anastasios Bakasetas,63
+4167,Edin Cocalic,42
+4168,Darko Jevtic,63
+4169,Lars Veldwijk,76
+4170,Lucas Torró,57
+4171,Boubacar Fofana,52
+4172,Stéphane Badji,46
+4173,Lucas Lima,56
+4174,Kaan Ayhan,47
+4175,Facundo Pereyra,62
+4176,Ethan Finlay,58
+4177,Fernando Barrientos,50
+4178,Felipe,65
+4179,Juan Carlos Paredes,52
+4180,Leandro Trossard,62
+4181,Roman Bezus,56
+4182,Patrick Bamford,69
+4183,Laurent Jans,49
+4184,Enver Cenk Sahin,57
+4185,Jacopo Dezi,52
+4186,Roman Emelyanov,60
+4187,Nicola Murru,47
+4188,Téji Savanier,70
+4189,Fran Carbia,60
+4190,Moussa Kone,67
+4191,Cristóbal Jorquera,66
+4192,Jordon Ibe,57
+4193,Valerio Verre,55
+4194,Anthony Lozano,67
+4195,Sebastián Sosa,22
+4196,Rob Schoofs,53
+4197,Anthony Koura,54
+4198,Jeff Louis,61
+4199,Naïm Sliti,70
+4200,Adriano Facchini,30
+4201,John Egan,54
+4202,Prince Désir Gouano,33
+4203,Youssef Toutouh,45
+4204,Brighton Mhlongo,20
+4205,Salim Khelifi,49
+4206,Oriol Rosell,49
+4207,Kenneth Otigba,35
+4208,Hervías,51
+4209,Maxime Dupé,18
+4210,Raphael Holzhauser,68
+4211,Koray Günter,37
+4212,Gabriel Achilier,35
+4213,Paul Dummett,43
+4214,Adam Reach,55
+4215,Rafal Wolski,45
+4216,Clément Tainmont,54
+4217,Bruno Zuculini,80
+4218,Lucas Aveldaño,62
+4219,Engin Bekdemir,61
+4220,Jon Toral,49
+4221,Gaëtan Courtet,61
+4222,Cristian Galano,56
+4223,Massimo Bruno,55
+4224,Ayanda Patosi,65
+4225,Joe Bryan,63
+4226,Benjamin Kessel,67
+4227,Leandro,68
+4228,Thiago Galhardo,66
+4229,Yu Sang Hun,25
+4230,Dimitri Foulquier,49
+4231,Tim Kister,33
+4232,Diego Chará,67
+4233,Isaías,50
+4234,Connor Ripley,14
+4235,James Tarkowski,34
+4236,Nahki Wells,61
+4237,Etiënne Reijnen,44
+4238,Jair,65
+4239,Rodrigo Ely,35
+4240,Thomas Bruns,48
+4241,Jon Flanagan,47
+4242,Erik Morán,46
+4243,Gustav Wikheim,31
+4244,Massadio Haïdara,55
+4245,Kevin Kraus,47
+4246,Andre Wisdom,43
+4247,Bruno Martella,33
+4248,Elias Kachunga,68
+4249,Sebastian Lletget,58
+4250,Hannes Van Der Bruggen,58
+4251,Toni Šunjic,50
+4252,Nicola Leali,17
+4253,Thibault Moulin,72
+4254,Sergey Bryzgalov,34
+4255,Maxime Colin,41
+4256,João Diogo,41
+4257,Jeffrey Schlupp,68
+4258,Denys Oliynyk,70
+4259,Giannis Maniatis,65
+4260,Gaztañaga,36
+4261,Diogo Amado,70
+4262,Barry Douglas,69
+4263,Benito Raman,65
+4264,Ibrahima Conté,54
+4265,Marcelo Silva,49
+4266,Graeme Shinnie,48
+4267,Roland Alberg,77
+4268,Michael Hector,44
+4269,Florian Jozefzoon,64
+4270,Atinç Nukan,41
+4271,Nicolas Höfler,50
+4272,Mustafa Yumlu,44
+4273,André Hoffmann,42
+4274,Daniel Royer,45
+4275,Marco Torsiglieri,61
+4276,Maikel Kieftenbeld,58
+4277,Jesús Sánchez,60
+4278,Bekim Balaj,56
+4279,Joffrey Cuffaut,56
+4280,Giulio Ebagua,68
+4281,Tobias Kempe,63
+4282,Ákos Elek,58
+4283,Michiel Jonckheere,55
+4284,Alexander Domínguez,18
+4285,Luis Marín,23
+4286,Simone Romagnoli,38
+4287,Abraham,57
+4288,Bailey Wright,39
+4289,Fredrik Midtsjø,47
+4290,Alexandr Kolomeytsev,45
+4291,Nikola Ðurdic,71
+4292,Cláudio Ramos,13
+4293,Mika,14
+4294,Paulus Arajuuri,20
+4295,Guitián,30
+4296,Steve Clark,25
+4297,Danny Williams,50
+4298,Stefan Šcepovic,82
+4299,Osvaldo González,52
+4300,Eunan OKane,56
+4301,Diego Fabbrini,59
+4302,Ali Ahamada,21
+4303,Yasser Al Mosailem,20
+4304,Lars Vilsvik,64
+4305,Christophe Diandy,55
+4306,Jhasmani Campos,81
+4307,Babanco,45
+4308,José Manuel Velázquez,37
+4309,Stalin Motta,76
+4310,Rodrigo Millar,80
+4311,Ivan Ivanov,24
+4312,Marco Davide Faraoni,66
+4313,Radosav Petrovic,47
+4314,Danny Batth,27
+4315,David Davis,47
+4316,Edgar Costa,61
+4317,Amara Baby,59
+4318,Javi Ros,58
+4319,Will Grigg,74
+4320,Abdoul Razzagui Camara,52
+4321,Isma López,49
+4322,Adam Matthews,50
+4323,Maximiliano Coronel,40
+4324,Loris Benito,56
+4325,Marin Leovac,33
+4326,Heinz Lindner,19
+4327,Marcelo Sarvas,58
+4328,Wes Foderingham,14
+4329,Diego Falcinelli,62
+4330,Charlison Benschop,74
+4331,Felipe,54
+4332,Oscar Jiménez,22
+4333,Archimede Morleo,50
+4334,Leandro Cabrera,49
+4335,Moritz Hartmann,84
+4336,Andreas Luthe,21
+4337,Fabian Klos,70
+4338,Sambou Yatabaré,64
+4339,Héctor Yuste,49
+4340,Hernán Bernardello,51
+4341,Baba Diawara,73
+4342,Lionn,51
+4343,Marcinho,78
+4344,Daniel Adejo,42
+4345,Evgeniy Makeev,61
+4346,Nabil Bahoui,68
+4347,Abdulmalek Al Khaibari,46
+4348,Hassan Muath Fallatah,71
+4349,Leandro Chichizola,25
+4350,Kléber,76
+4351,Leandro,69
+4352,Emil Salomonsson,71
+4353,Kamil Wilczek,67
+4354,Håvard Nielsen,56
+4355,Marco Terrazzino,59
+4356,Manuel Gulde,44
+4357,Hervé Bazile,65
+4358,Henrik Dalsgaard,52
+4359,Yoann Andreu,25
+4360,Franco Zuculini,48
+4361,Janusz Gol,62
+4362,André Hansen,17
+4363,Teemu Pukki,62
+4364,Mert Günok,16
+4365,Robert Gucher,61
+4366,Gennaro Scognamiglio,44
+4367,Georg Niedermeier,49
+4368,Lorenzo Del Prete,50
+4369,Migjen Basha,62
+4370,Aleksandar Prijovic,55
+4371,Guido Marilungo,65
+4372,Reza Ghoochannejhad,65
+4373,Ruslan Kambolov,65
+4374,Guarrotxena,67
+4375,Bartosz Salamon,41
+4376,Maikon Leite,69
+4377,Mirko Boland,56
+4378,Fausto Rossi,59
+4379,Nathan Baker,35
+4380,Mattias Johansson,46
+4381,Thiago Cionek,39
+4382,Francesco Caputo,74
+4383,Ahmed Kashi,52
+4384,Mustafa Pektemek,71
+4385,Declan Rudd,43
+4386,Mehdi Abeid,62
+4387,Mirco Antenucci,74
+4388,Alan Baró,58
+4389,Aziz Bouhaddouz,74
+4390,Tommy Oar,61
+4391,Bakary Saré,33
+4392,Paulo Garcés,15
+4393,Zaur Sadaev,60
+4394,Jakob Jantscher,72
+4395,Enrique Pérez,46
+4396,Sean Morrison,47
+4397,Niall McGinn,67
+4398,Montoro,62
+4399,Roger Espinoza,60
+4400,Andy King,63
+4401,Matías Rodríguez,68
+4402,Fernando Navarro,64
+4403,Dušan Veškovac,52
+4404,László Köteles,44
+4405,Gilles Sunu,73
+4406,Dušan Kuciak,13
+4407,Massimo Coda,65
+4408,Elderson Echiéjilé,31
+4409,Nílton,53
+4410,Arnold Bouka Moutou,51
+4411,Mano,43
+4412,Denis Petric,22
+4413,Eduardo Herrera,71
+4414,Luis Montes,68
+4415,Tomasz Kupisz,62
+4416,Eric Lichaj,52
+4417,Alex Smithies,37
+4418,John Bostock,76
+4419,Riccardo Maniero,74
+4420,Giuseppe Bellusci,40
+4421,Brayan Angulo,34
+4422,Stefano Celozzi,42
+4423,Aarón Ñíguez,67
+4424,Ryan Bennett,48
+4425,Dirk Marcellis,61
+4426,Vagner,13
+4427,Sascha Mölders,65
+4428,Emanuele Terranova,65
+4429,Joshua John,62
+4430,Prince Oniangué,52
+4431,Mario Bolatti,67
+4432,Adlène Guédioura,57
+4433,Nicolò Cherubin,18
+4434,Jo Inge Berget,62
+4435,Jérémy Taravel,50
+4436,Kazenga LuaLua,64
+4437,Thuso Phala,65
+4438,Mark Beevers,45
+4439,Gaetano Berardi,40
+4440,Egidio Arévalo Ríos,64
+4441,Tim Matavž,69
+4442,Léo Silva,63
+4443,Adam Hloušek,61
+4444,Hajime Hosogai,46
+4445,David McGoldrick,78
+4446,Václav Procházka,57
+4447,Dame NDoye,60
+4448,Rodolfo Salinas,59
+4449,David Cabrera,58
+4450,Leandro Grimi,56
+4451,Anthony Pilkington,65
+4452,Radoslaw Majewski,64
+4453,Xavi Torres,49
+4454,Rouwen Hennings,67
+4455,Thomas Phibel,48
+4456,Oleksandr Rybka,21
+4457,Charlie Mulgrew,59
+4458,Chris Kum,44
+4459,Habib Habibou,58
+4460,Aleandro Rosi,50
+4461,André Leão,50
+4462,Alain Traoré,73
+4463,Ismail Konuk,32
+4464,Cenk Gönen,12
+4465,Stefano Guberti,75
+4466,José Guerrero,51
+4467,Kévin Constant,56
+4468,Daniele Capelli,46
+4469,Moreno Costanzo,71
+4470,Nicolás Bertolo,57
+4471,Julio César Domínguez,30
+4472,Lukas Jutkiewicz,76
+4473,Mattias Bjärsmyr,34
+4474,Per Karlsson,37
+4475,Jahmir Hyka,52
+4476,Nano,67
+4477,Daniel Halfar,52
+4478,Jan Rosenthal,58
+4479,Christian Bolaños,43
+4480,Khalifa Sankaré,17
+4481,Walter Ayoví,68
+4482,Victor Bernárdez,64
+4483,Chris Gunter,47
+4484,Christoph Leitgeb,64
+4485,Fabio Ceravolo,70
+4486,Daniele Dessena,56
+4487,Stylianos Malezas,37
+4488,Tomasz Jodlowiec,55
+4489,Matías Cahais,55
+4490,Brian Hamalainen,57
+4491,Pierre Kanstrup,49
+4492,Souleymane Bamba,19
+4493,Réginal Goreux,59
+4494,David Fernández,36
+4495,Joona Toivio,59
+4496,Gertjan De Mets,58
+4497,Michael Mancienne,41
+4498,Linares,59
+4499,Rafa López,44
+4500,Carlos Esquivel,65
+4501,Javi Moyano,46
+4502,Jordi Gómez,82
+4503,Sastre,57
+4504,Antonio Balzano,36
+4505,David Cotterill,63
+4506,Ryan Shotton,59
+4507,Roy Beerens,71
+4508,Hugo Ventura,17
+4509,Carlos Luna,79
+4510,Kieran Lee,59
+4511,Fraizer Campbell,68
+4512,Michael Madl,57
+4513,Jordens Peters,46
+4514,Ikechi Anya,55
+4515,Jonathan Martins Pereira,52
+4516,Mouhamadou Dabo,54
+4517,Henok Goitom,70
+4518,Magnus Troest,12
+4519,Efraín Juárez,51
+4520,Steffen Hagen,36
+4521,Viktor Fayzulin,43
+4522,Kyle Lafferty,75
+4523,Park Chu Young,81
+4524,Darío Bottinelli,78
+4525,Sekou Cissé,70
+4526,Joel Lynch,35
+4527,Drew Moor,42
+4528,Johan Dahlin,13
+4529,Pita,69
+4530,Nauzet,21
+4531,Alexis Thébaux,12
+4532,Grant Leadbitter,77
+4533,Andrea Lazzari,68
+4534,James Vaughan,70
+4535,Jordan Remacle,76
+4536,Miloš Krasic,69
+4537,Paul Gallagher,68
+4538,Andy Keogh,72
+4539,Emanuel Villa,68
+4540,Liam Ridgewell,53
+4541,Peter Whittingham,82
+4542,Davide Biondini,51
+4543,Víctor Casadesús,69
+4544,José Rivas,53
+4545,François Clerc,59
+4546,Ólafur Ingi Skúlason,60
+4547,Vasyl Kobin,44
+4548,Avimiled Rivas,53
+4549,Eugene Galekovic,21
+4550,Clayton Donaldson,64
+4551,Nereo Fernández,24
+4552,Christian Puggioni,21
+4553,Braulio Leal,67
+4554,Craig Bryson,61
+4555,Lukasz Szukala,42
+4556,Willem Janssen,75
+4557,David Edwards,55
+4558,Thomas Kessler,16
+4559,Joël Sami,48
+4560,José De la Cuesta,38
+4561,Christoph Janker,50
+4562,Juan Carlos Medina,68
+4563,Damián Álvarez,66
+4564,Jakub Rzezniczak,35
+4565,Carlitos,64
+4566,Lukasz Tralka,65
+4567,Víctor Figueroa,34
+4568,Gustavo Colman,72
+4569,Daniel Montenegro,74
+4570,Mike Williamson,49
+4571,Liam Rosenior,44
+4572,Dimitrios Konstantopoulos,18
+4573,Marco Caligiuri,63
+4574,Daniele Corvia,75
+4575,Ali Al-Habsi,13
+4576,Davy De fauw,78
+4577,Slawomir Peszko,55
+4578,Pawel Kieszek,9
+4579,Ivica Olic,73
+4580,Igor Lebedenko,71
+4581,Roman Pavlyuchenko,77
+4582,Juan Rodriguez,54
+4583,Rubén,25
+4584,Ikechukwu Uche,67
+4585,Razvan Rat,49
+4586,Emiliano Papa,58
+4587,Jonás Gutiérrez,71
+4588,Facundo Erpen,47
+4589,Patricio Toranzo,63
+4590,Israel Damonte,60
+4591,Alexandros Tziolis,58
+4592,Sammy Bossut,17
+4593,Ross Wallace,61
+4594,Óscar Pérez,23
+4595,Alessandro Cordaro,62
+4596,Carlos Salcido,62
+4597,Billy Jones,57
+4598,Issa Cissokho,57
+4599,Hassan Yebda,74
+4600,Amaya,25
+4601,Franck Signorino,42
+4602,Jordan Lotiès,57
+4603,Christophe Lepoint,69
+4604,Kim Do Heon,73
+4605,Rodolfo,56
+4606,Niki Zimling,69
+4607,Jesper Hansen,20
+4608,Sabri Sarioglu,54
+4609,Ali Turan,62
+4610,Sulley Muntari,71
+4611,Marco Donadel,55
+4612,Elyasa Süme,31
+4613,Youssouf Hadji,73
+4614,Clément Maury,16
+4615,Alexander Madlung,43
+4616,Daniel Sjölund,59
+4617,Heiko Westermann,42
+4618,Johan Cavalli,77
+4619,Darren Bent,75
+4620,Jakob Poulsen,71
+4621,Matteo Brighi,68
+4622,Daniele Cacia,75
+4623,Steve von Bergen,46
+4624,Benoît Cheyrou,74
+4625,Gerhard Tremmel,41
+4626,Steed Malbranque,66
+4627,Rúben Fernandes,58
+4628,Stefan Ishizaki,68
+4629,Moreira,11
+4630,Sergiu Hanca,53
+4631,Damir Šovšic,65
+4632,Juan Sebastián Verón,82
+4633,Cristian Colmán,68
+4634,Tomáš Soucek,56
+4635,Antonín Barák,66
+4636,Manolis Siopis,59
+4637,Sasa Lukic,66
+4638,Michael Ngadeu-Ngadjui,50
+4639,Maximiliano Olivera,52
+4640,Andriy Totovytskyi,62
+4641,Alberth Elis,65
+4642,Omer Atzili,59
+4643,Ever Corredeira,73
+4644,Nilson Padilho,49
+4645,Luan Sendeiro,43
+4646,Jailson Oliva,42
+4647,João Bardinho,63
+4648,Rafa Navarro,48
+4649,Srdjan Babic,38
+4650,Youssef En-Nesyri,59
+4651,Matthijs de Ligt,40
+4652,Achraf Hakimi,46
+4653,Mateus,44
+4654,Ratón,15
+4655,Platiny,55
+4656,Sergey Chernik,11
+4657,Salvi,54
+4658,Alberto Benito,44
+4659,Didi,40
+4660,Borja Lasso,61
+4661,Allan Ardaújo,72
+4662,Jairo Farnias,14
+4663,Ricky Guerreda,53
+4664,Elgezabal,41
+4665,Milad Mohammadi,61
+4666,Daisuke Suzuki,42
+4667,Bernardo,38
+4668,Guillermo Acosta,40
+4669,Gonzalo Papa,50
+4670,Nicolás Romat,39
+4671,Nicolás Silva,47
+4672,Wataru Endo,56
+4673,Christopher Nkunku,54
+4674,Ryota Moriwaki,62
+4675,Milan Škriniar,58
+4676,Emanuel Dening,65
+4677,Gabriel Sanabria,51
+4678,Leonardo Castro,66
+4679,Yann Karamoh,65
+4680,Javi Ontiveros,68
+4681,Cameron Borthwick-Jackson,46
+4682,Alexis Soto,38
+4683,Joris Gnagnon,47
+4684,Emre Mor,49
+4685,Nejc Skubic,32
+4686,Jozo Šimunovic,36
+4687,Saberto Botelho,46
+4688,Sevinho Santos,57
+4689,Vicemte Tófoli,73
+4690,Diogildo Peixe,66
+4691,Raphael Paneira,59
+4692,Macarinho Louro,71
+4693,Renaldo Justinho,64
+4694,Alam Basteirinho,71
+4695,Diegildo Ramos,61
+4696,Ansel Barnisco,75
+4697,Nazarinho Rios,61
+4698,Lourival Dinisco,61
+4699,Allison Sireo,48
+4700,Eltson Marques,51
+4701,Césario Figueirido,62
+4702,Milton Menceiros,49
+4703,Bernardo Motinho,62
+4704,Sérgio Espinho,61
+4705,Paulo Mesqueira,73
+4706,Daguinho Parrela,61
+4707,Luisinho Conradi,55
+4708,Wagner Orsinho,74
+4709,Emerson Avintes,59
+4710,Breno Bemposta,74
+4711,Enzo Chissano,64
+4712,Alexio Sanctos,41
+4713,Renatao Baumer,48
+4714,Alam Araújo,50
+4715,Victor Fachinhas,24
+4716,Vital Nsimba,50
+4717,Fran Villalba,57
+4718,Andrey Lunev,15
+4719,Georgiy Dzhikiya,45
+4720,Rodrigo Pinho,69
+4721,Victorien Angban,39
+4722,Pascal Stenzel,49
+4723,Fernando De Paul,21
+4724,David Rocha,55
+4725,Matheus Pereira,62
+4726,Charles,18
+4727,Elohim Rolland,42
+4728,Davide Calabria,43
+4729,Hidde Jurjus,23
+4730,Marc Roberts,34
+4731,Zinédine Machach,55
+4732,Raillo,43
+4733,Alexandre Silva,45
+4734,Giovanni Troupée,41
+4735,Georgiy Tigiev,41
+4736,Brandley Kuwas,56
+4737,Rico Strieder,47
+4738,Óscar Vílchez,59
+4739,Josep Señé,61
+4740,Nuno Santos,71
+4741,Kim Seung Joon,58
+4742,Anastasios Donis,69
+4743,Hugo Basto,46
+4744,Dmitriy Stotskiy,62
+4745,Samuel Adegbenro,58
+4746,Damián Lemos,51
+4747,Cristian Arrieta,41
+4748,Melero,53
+4749,Yojiro Takahagi,60
+4750,Jhonathan Muñoz,38
+4751,Ivo Rodrigues,70
+4752,Bruno Santos,40
+4753,Benjamin Pavard,48
+4754,Matías Escudero,38
+4755,Antonio Milic,43
+4756,Kieran Tierney,35
+4757,Fabián,70
+4758,Che Adams,49
+4759,Assane Gnoukouri,51
+4760,Steven Bergwijn,59
+4761,Olivier Boscagli,36
+4762,Daniele Verde,59
+4763,Washington,47
+4764,Oliver Burke,42
+4765,Carlos Embalo,58
+4766,Duje Caleta-Car,38
+4767,Jarlan Barrera,65
+4768,Ramahlwe Mphahlele,36
+4769,Alex Meret,21
+4770,Joe Gomez,26
+4771,Jean-Luc Dompé Diarra,57
+4772,André Moreira,24
+4773,Lewis Cook,45
+4774,Sasa Zdjelar,42
+4775,Dabney Dos Santos,59
+4776,Sofyan Amrabat,47
+4777,Marcos Riquelme,59
+4778,Alejandro Márquez,45
+4779,Sergio Herrera,32
+4780,Vítor Bruno,66
+4781,Julio Chiarini,22
+4782,João Afonso,46
+4783,Stephen Kingsley,46
+4784,Tom van Weert,72
+4785,Granell,72
+4786,Borja Lázaro,70
+4787,Rui Correia,44
+4788,Concha,72
+4789,Emil Berggreen,59
+4790,Aleksandar Pešic,67
+4791,Filipe Melo,49
+4792,Lucas Diarte,43
+4793,Carraça,58
+4794,Emanuel Aguilera,64
+4795,Ogulcan Çaglayan,62
+4796,Muammer Yildirim,22
+4797,Dorin Rotariu,52
+4798,Fernando Pellegrino,24
+4799,Selim Ay,53
+4800,Pablo Pérez,80
+4801,Benno Schmitz,32
+4802,Martin Ødegaard,59
+4803,Ezequiel Unsain,22
+4804,José Carlos,34
+4805,Barnes Osei,66
+4806,Vasil Bozhikov,35
+4807,Strahil Popov,30
+4808,Leonel Di Plácido,45
+4809,Patrick Roberts,62
+4810,Kasper Fisker,63
+4811,Paul Seguin,45
+4812,Gonzalo Díaz,64
+4813,Kim Do Hyeok,53
+4814,Ryan Hollingshead,49
+4815,Ernesto Hernández,35
+4816,Armando Vargas,57
+4817,Dieter Villalpando,64
+4818,Ante Puljic,37
+4819,Gerónimo Poblete,54
+4820,Tim Leibold,61
+4821,Cameron Brannagan,53
+4822,Ryan Thomas,60
+4823,Federico Mattiello,59
+4824,Kemar Lawrence,33
+4825,Dmytro Khomchenovskyi,59
+4826,Bersant Celina,69
+4827,Jorginho,59
+4828,Zhivko Milanov,54
+4829,Ismaïl Aissati,62
+4830,Gheorghe Grozav,60
+4831,Igor Bubnjic,41
+4832,Ante Rebic,63
+4833,Jimmy Medranda,42
+4834,Dimitri Cavaré,37
+4835,Baptiste Santamaria,44
+4836,Uroš Matic,51
+4837,Raffaele Di Gennaro,25
+4838,Saúl,43
+4839,Pedro Tiba,57
+4840,Raúl Osorio,38
+4841,César Pinares,63
+4842,Pozo,66
+4843,Olivier Ntcham,38
+4844,Kim Min Woo,53
+4845,Samir Saad,52
+4846,Aleksandar Bjelica,46
+4847,Jonathan Zacaría,59
+4848,Dakonam Djené,41
+4849,Javier Mendoza,57
+4850,Alexis Martín Arias,23
+4851,Martín Barragán,67
+4852,Shuichi Gonda,29
+4853,Shusaku Nishikawa,30
+4854,Sequeira,64
+4855,Darwin Cerén,64
+4856,Wilker Ángel,36
+4857,Aníbal Godoy,36
+4858,Václav Cerný,50
+4859,Yeltsin Tejeda,49
+4860,Godfrey Oboabona,26
+4861,Jean Zimmer,42
+4862,Alvas Powell,36
+4863,Luca Bittante,45
+4864,Roberto,68
+4865,Filip Raicevic,49
+4866,Néstor Moiraghi,60
+4867,Boli Bolingoli,68
+4868,Renaud Emond,70
+4869,Uroš Spajic,44
+4870,Edimilson Fernandes,55
+4871,Birama Ndoye,44
+4872,Bruno Pires,62
+4873,Ibrahima Seck,43
+4874,Guido Milan,40
+4875,Gabriel Graciani,37
+4876,César,40
+4877,Lucas Pittinari,53
+4878,Walter Benítez,25
+4879,Ezequiel Rescaldani,72
+4880,Facundo Castillón,67
+4881,Lautaro Giannetti,50
+4882,Leandro Desábato,34
+4883,Maximiliano Urruti,63
+4884,Nicolás Aguirre,71
+4885,Guillermo Cosaro,48
+4886,Fernando Meza,46
+4887,Gerard,50
+4888,Fernando Cordero,59
+4889,Farès Bahlouli,66
+4890,Leandro Benegas,69
+4891,Ángelo Sagal,66
+4892,Franz Schultz,32
+4893,Jorge Pereyra Díaz,57
+4894,Óscar Benítez,57
+4895,Ángel Zaldívar,73
+4896,Nicolás Berardo,48
+4897,Elkin Blanco,52
+4898,Sergio López,72
+4899,Paulo Díaz,47
+4900,Mauricio Cuero,54
+4901,Sebastián Ubilla,55
+4902,Jonathan Ávila,33
+4903,Luis Carlos Ruiz,71
+4904,Christian Vilches,32
+4905,Juan Delgado,51
+4906,Claudio Baeza,61
+4907,Rafael Caroca,57
+4908,Benjamín Vidal,41
+4909,Leonardo Pico,36
+4910,Elvis Perlaza,31
+4911,Stiven Barreiro,37
+4912,Mauricio Casierra,36
+4913,Éver Cantero,76
+4914,Camilo Saiz,32
+4915,Johan Mojica,67
+4916,Víctor Giraldo,70
+4917,Diego Peralta,57
+4918,Pylyp Budkivskyi,63
+4919,Simeon Slavchev,43
+4920,Cristián Suárez,14
+4921,Ronwen Williams,18
+4922,Isaiah Brown,56
+4923,Eduardo López,61
+4924,Luis Ojeda,32
+4925,Steeven Willems,49
+4926,Mu Kanazaki,47
+4927,Kekuta Manneh,59
+4928,Vinícius Araújo,70
+4929,Sebastián Palacios,53
+4930,Wil Trapp,46
+4931,Andrés Rentería,56
+4932,Jonas Meffert,51
+4933,Issiaga Sylla,47
+4934,Brandon Thomas,69
+4935,Sebastian Kerk,66
+4936,Jamie Maclaren,67
+4937,Alexander Djiku,43
+4938,Sebastián Rincón,65
+4939,Nikola Ninkovic,68
+4940,Michael Heylen,42
+4941,Mustafa Al Bassas,58
+4942,Tobias Schröck,47
+4943,Quirin Moll,48
+4944,Kevin Akpoguma,48
+4945,Neal Maupay,67
+4946,Robert Leipertz,59
+4947,Pierluigi Gollini,21
+4948,Reece James,52
+4949,John Swift,50
+4950,Luiz Phellype,73
+4951,Rudy Cardozo,64
+4952,Mauro Goicoechea,22
+4953,Moryke Fofana,56
+4954,Lisandro Magallán,44
+4955,Corentin Jean,64
+4956,Arnór Ingvi Traustason,57
+4957,Opa NGuette,73
+4958,Kenan Kodro,60
+4959,Giorgos Koutroubis,34
+4960,Pablo Valcarce,54
+4961,Federico Ceccherini,13
+4962,Julián Velázquez,48
+4963,Leonardo Capezzi,66
+4964,Fran Sol,62
+4965,Alberto Brignoli,22
+4966,Ibrahima Mbaye,49
+4967,Thomas Pledl,60
+4968,Jairo Palomino,62
+4969,Tomasz Kedziora,38
+4970,Gergo Lovrencsics,70
+4971,Johannes Wurtz,67
+4972,Waleed Bakhashwain,34
+4973,Yroundu Musavu-King,36
+4974,Julian Jeanvier,42
+4975,Ayanda Gcaba,36
+4976,Andrés Cadavid,41
+4977,Barrie McKay,59
+4978,Stefano Magnasco,55
+4979,Mattheus Oliveira,67
+4980,Bruninho,69
+4981,Rodéric Filippi,39
+4982,Bart van Hintum,66
+4983,Bram van Polen,64
+4984,Nicolas Saint-Ruf,35
+4985,Simon Hedlund,43
+4986,Abdulmajeed Al Ruwaili,70
+4987,Joel Silva,24
+4988,Mandé Sayouba,15
+4989,Ahmad Hassan Assiri,47
+4990,Hussain Omar Sulaimani,60
+4991,Mickey van der Hart,27
+4992,Cosmin Matei,69
+4993,Enrico Valentini,61
+4994,Rubén Sobrino,66
+4995,Axel Ngando,63
+4996,Rafidine Abdullah,53
+4997,Pierre-Yves Polomat,47
+4998,Thomas Eisfeld,55
+4999,Abel Camará,69
+5000,Brian Behrendt,54
