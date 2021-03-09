@@ -181,27 +181,6 @@ INSERT INTO dbo.follower ("prikey", "account", "name", "sport", "mw", "class", "
 (140, 'cory_dillard', 'Cory Dillard', 'soccer', 'men', 'athlete', 'Grady'),
 (141, 'colin.thomasson', 'Colin Thomasson', 'soccer', 'men', 'athlete', 'Grady');
 
-CREATE TABLE dbo.phonebook (
-  "ID" int NOT NULL,
-  "Last" varchar(30) NOT NULL,
-  "First" varchar(30) NOT NULL,
-  "Phone" bigint NOT NULL,
-  "Type" VARCHAR(8) NOT NULL CHECK (Type IN('FRIEND','BUSINESS','FAMILY','OTHER'))
-);
-
-INSERT INTO dbo.phonebook ("ID", "Last", "First", "Phone", "Type") VALUES
-(1, 'Weinstick', 'Kaleb', 1653215477, 'FRIEND'),
-(2, 'Rafferty', 'Alex', 2468934572, 'OTHER'),
-(3, 'Skon', 'Jim', 1567215762, 'OTHER'),
-(4, 'Hoffman', 'Jared', 5424742579, 'BUSINESS'),
-(5, 'Zarley', 'Ashleigh', 1567451264, 'BUSINESS'),
-(6, 'Burgett', 'Weylin', 7403557554, 'BUSINESS'),
-(7, 'Toole', 'Charles', 4455542697, 'FRIEND'),
-(8, 'Kim', 'Sejin', 4049770199, 'OTHER'),
-(9, 'Bruckmann', 'Alex', 5574195756, 'FRIEND'),
-(10, 'Cucchi', 'Nico', 5756244425, 'FRIEND'),
-(11, 'Slipshod', 'pinhead', 323233422, 'OTHER');
-
 CREATE TABLE dbo.users (
   "userId" int NOT NULL,
   "userName" varchar(30) NOT NULL,
@@ -246,9 +225,6 @@ ALTER TABLE dbo.comments
 
 ALTER TABLE dbo.follower
   ADD PRIMARY KEY ("prikey");
-
-ALTER TABLE dbo.phonebook
-  ADD PRIMARY KEY ("ID");
 
 ALTER TABLE dbo.users
   ADD PRIMARY KEY ("userId");
