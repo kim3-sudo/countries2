@@ -226,37 +226,6 @@ INSERT INTO `follower` (`prikey`, `account`, `name`, `sport`, `mw`, `class`, `as
 -- --------------------------------------------------------
 
 --
--- Table structure for table `Phonebook`
---
-
-CREATE TABLE `Phonebook` (
-  `ID` int(11) NOT NULL,
-  `Last` varchar(30) NOT NULL,
-  `First` varchar(30) NOT NULL,
-  `Phone` bigint(20) NOT NULL,
-  `Type` enum('FRIEND','BUSINESS','FAMILY','OTHER') NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `Phonebook`
---
-
-INSERT INTO `Phonebook` (`ID`, `Last`, `First`, `Phone`, `Type`) VALUES
-(1, 'Weinstick', 'Kaleb', 1653215477, 'FRIEND'),
-(2, 'Rafferty', 'Alex', 2468934572, 'OTHER'),
-(3, 'Skon', 'Jim', 1567215762, 'OTHER'),
-(4, 'Hoffman', 'Jared', 5424742579, 'BUSINESS'),
-(5, 'Zarley', 'Ashleigh', 1567451264, 'BUSINESS'),
-(6, 'Burgett', 'Weylin', 7403557554, 'BUSINESS'),
-(7, 'Toole', 'Charles', 4455542697, 'FRIEND'),
-(8, 'Kim', 'Sejin', 4049770199, 'OTHER'),
-(9, 'Bruckmann', 'Alex', 5574195756, 'FRIEND'),
-(10, 'Cucchi', 'Nico', 5756244425, 'FRIEND'),
-(11, 'Slipshod', 'pinhead', 323233422, 'OTHER');
-
--- --------------------------------------------------------
-
---
 -- Table structure for table `users`
 --
 
@@ -320,12 +289,6 @@ ALTER TABLE `follower`
   ADD PRIMARY KEY (`prikey`);
 
 --
--- Indexes for table `Phonebook`
---
-ALTER TABLE `Phonebook`
-  ADD PRIMARY KEY (`ID`);
-
---
 -- Indexes for table `users`
 --
 ALTER TABLE `users`
@@ -347,11 +310,6 @@ ALTER TABLE `follower`
   MODIFY `prikey` int(8) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=142;
 --
 -- AUTO_INCREMENT for table `Phonebook`
---
-ALTER TABLE `Phonebook`
-  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
---
--- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
   MODIFY `userId` int(8) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=110;
